@@ -1,5 +1,5 @@
 ## Introduction
-Le projet aura un mode éditeur (à la Geometry Dash) des niveaux solos.
+Le projet aura un mode éditeur (à la Geometry Dash) des niveaux solos. <br/>
 Le Gameplay est simple, c’est exactement comme un Angry Bird, sauf que tu tires pour traverser une « map » contenant des murs piège et effet.
 
 ## Fonctionalité
@@ -14,6 +14,7 @@ Le Gameplay est simple, c’est exactement comme un Angry Bird, sauf que tu tire
 9. Plusieurs thème « UI » de couleurs différentes seront proposés dans les paramètre du jeu (comme le thème foncé activé par défaut).
 
 ## Remerciment
-Le jeu sera crée grâce par Evan Galli sur Unity.
-Louis Dalmasso s’occupera des tout ce qui est textures et UI.
-A oui j’allais oublier, le jeu s’appellera peut-être « Angry Dash »
+Le jeu sera crée grâce par Evan Galli sur Unity. <br/>
+Louis Dalmasso s’occupera des tout ce qui est textures et UI. <br/>
+
+> A oui j’allais oublier, le jeu s’appellera peut-être « Angry Dash »

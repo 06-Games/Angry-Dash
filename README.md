@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/06-Games/Angry-Dash.svg?label=Dernière%20Version&style=for-the-badge&colorB=1183C6)](https://github.com/06-Games/Angry-Dash/releases/latest)
+
 ## Introduction
 Le projet aura un mode éditeur (à la Geometry Dash) des niveaux solos. <br/>
 Le Gameplay est simple, c’est exactement comme un Angry Bird, sauf que tu tires pour traverser une « map » contenant des murs piège et effet.

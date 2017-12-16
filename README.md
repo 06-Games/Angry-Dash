@@ -1,4 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/06-Games/Angry-Dash.svg?label=Dernière%20Version&style=for-the-badge&colorB=1183C6)](https://github.com/06-Games/Angry-Dash/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/06-Games/Angry-Dash/total.svg?style=for-the-badge&label=Téléchargement&logo=github&colorA=b5b9bd&colorB=cbcbcb)](https://github.com/06-Games/Angry-Dash/releases)
 
 ## Introduction
 Le projet aura un mode éditeur (à la Geometry Dash) des niveaux solos. <br/>

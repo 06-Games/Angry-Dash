@@ -1,5 +1,6 @@
 [![GitHub release](https://img.shields.io/github/release/06-Games/Angry-Dash.svg?label=Dernière%20Version&style=for-the-badge&colorB=1183C6)](https://github.com/06-Games/Angry-Dash/releases/latest)
 [![Github All Releases](https://img.shields.io/github/downloads/06-Games/Angry-Dash/total.svg?style=for-the-badge&label=Téléchargement&logo=github&colorA=b5b9bd&colorB=cbcbcb)](https://github.com/06-Games/Angry-Dash/releases)
+<!--[![Github All Releases](https://img.shields.io/badge/%C3%A9galement%20disponible-sur%20Aptoide-orange.svg?style=for-the-badge)]()-->
 
 ## Introduction
 Le projet aura un mode éditeur (à la Geometry Dash). <br/>

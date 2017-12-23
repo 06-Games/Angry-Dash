@@ -7,7 +7,7 @@ Nomination | Description
 *x* | Coordonnée du bloc sur l'axe horizontal
 *y* | Coordonnée du bloc sur l'axe vertical
 *z* | Layer
-*HexColor* | Couleur du bloc au format Hexadécimal
+[*HexColor*](https://html-color-codes.info/Codes-couleur-HTML/) | Couleur du bloc au format Hexadécimal
 [*PhysID*](#physid) | Type de collision et évènement
 
 ## ID

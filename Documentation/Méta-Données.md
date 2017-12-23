@@ -17,7 +17,7 @@ N° | Description
 2 | Bloc Carré
 
 ## HexColor
-**[HexCode](https://html-color-codes.info/Codes-couleur-HTML/) + A du RGBA**
+**[HexCode](https://html-color-codes.info/Codes-couleur-HTML/) + Alpha en RGBA**
 
 ## PhysID
 N° | Description

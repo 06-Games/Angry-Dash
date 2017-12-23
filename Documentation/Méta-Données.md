@@ -3,7 +3,7 @@
 
 Nomination | Description
 ------------ | -------------
-[*ID*](#id) | Indentifient porpre à chaque bloc
+[*ID*](#id) | Indentifiant porpre à chaque bloc
 *x* | Coordonnée du bloc sur l'axe horizontal
 *y* | Coordonnée du bloc sur l'axe vertical
 *z* | Layer

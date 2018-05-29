@@ -29,3 +29,30 @@
 |shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
 |shopWatchAd = Watch
 |shopInternetRequire = An internet connection is required\nto load the shop
+
+//SplashScreen
+|loadingScene = Chargement
+
+//Download Dependencies
+|downloadingSoloLevels = Downloading levels
+|downloadTexTitle = Downloading textures required by the game
+|downloadTexSubtitle = This may take several minutes\nDon't exit the game during this operation
+|downloadRequireInternetTitle = An internet connection is required at first start
+|downloadRequireInternetSubtitle = Please check your internet connection and restart the game
+|downloadRequireInternetExit = Tap to exit
+
+//06Games Account Connection
+|06GamesAccountConnectionTitle = A 06Games Account is required to start the game
+|06GamesAccountConnectionUsername = E-Mail / Username
+|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
+|06GamesAccountConnectionPassword = Password
+|06GamesAccountConnectionPasswordExemple = A_Very_Good_Password
+|06GamesAccountConnectionLogin = log in
+|06GamesAccountConnectionError = Connexion error,\ncheck your username (or e-mail) and your password then re-check
+|06GamesAccountConnecting = Connecting ...\n\n<b>Please Wait</b>
+
+//LevelPlayer
+|playerTurn = Turn : [0]
+|levelFinished = is finished
+|levelReward = Reward
+|levelRewardCoins = Coins

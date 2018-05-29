@@ -12,6 +12,7 @@
 //Accueil - Paramètres
 |languagesChooseMenu = Langues
 |languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
+|languageChangCancel = Annuler
 |languageChangApply = Recharger
 |soundSettingsMenu = Audio
 |masterSoundSettings = Principal
@@ -28,3 +29,30 @@
 |shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 credits supplémentaires ?
 |shopWatchAd = Regarder
 |shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
+
+//SplashScreen
+|loadingScene = Chargement
+
+//Téléchargement des Dépendances
+|downloadingSoloLevels = Téléchargement des niveaux
+|downloadTexTitle = Téléchargement des textures requises par le jeu
+|downloadTexSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
+|downloadRequireInternetTitle = Une connexion internet est requise au premier démarrage
+|downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
+|downloadRequireInternetExit = Appuyer pour quitter
+
+//06Games Account Connection
+|06GamesAccountConnectionTitle = Un compte 06Games est requis pour lancer le jeu
+|06GamesAccountConnectionUsername = E-Mail / Nom d'utilisateur
+|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
+|06GamesAccountConnectionPassword = Mot de passe
+|06GamesAccountConnectionPasswordExemple = Un_Super_Mot_De_Passe
+|06GamesAccountConnectionConnect = Se Connecter
+|06GamesAccountConnectionError = Erreur de connexion,\nVérifiez votre nom d'utilisateur (ou e-mail) et votre mot de passe puis re-vérifiez
+|06GamesAccountConnecting = Connexion...\n\n<b>Veuillez patienter</b>
+
+//Joueur de niveaux
+|playerTurn = Tour : [0]
+|levelFinished = est terminé
+|levelReward = Récompense
+|levelRewardCoins = Pièces

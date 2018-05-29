@@ -1,1 +1,31 @@
+//Home
 |gameTitle = Angry Dash
+|playButton = Play
+|editorButton = Editor
+|settingsButton = Settings
+
+//Home - Play
+|playSoloLevel = Basic Level\nOne Player
+|playMultiLevel = Multiplayer
+|playSoloLevelNumber = Level [0]
+
+//Home - Settings
+|languagesChooseMenu = Languages
+|languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
+|languageChangCancel = Cancel
+|languageChangApply = Reload
+|soundSettingsMenu = Sound
+|masterSoundSettings = Master
+|musicSoundSettings = Musics
+|FXSoundSettings = FX
+|delLogFiles = Delete Log Files
+
+//Home - Credits
+|musicCredits = Musics
+|devCredits = Developpers
+
+//Home - Shop
+|shopBuyPlayer = Player
+|shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
+|shopWatchAd = Watch
+|shopInternetRequire = An internet connection is required\nto load the shop

@@ -1,1 +1,30 @@
+//Accueil
 |gameTitle = Angry Dash
+|playButton = Jouer
+|editorButton = Editeur
+|settingsButton = Paramètres
+
+//Accueil - Jouer
+|playSoloLevel = Niveau de Base\nOne joueur
+|playMultiLevel = Multijoueurs
+|playSoloLevelNumber = Niveau [0]
+
+//Accueil - Paramètres
+|languagesChooseMenu = Langues
+|languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
+|languageChangApply = Recharger
+|soundSettingsMenu = Audio
+|masterSoundSettings = Principal
+|musicSoundSettings = Musiques
+|FXSoundSettings = Effets
+|delLogFiles = Suppr. les logs
+
+//Accueil - Crédits
+|musicCredits = Musiques
+|devCredits = Développeurs
+
+//Home - Magasin
+|shopBuyPlayer = Joueur
+|shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 credits supplémentaires ?
+|shopWatchAd = Regarder
+|shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin

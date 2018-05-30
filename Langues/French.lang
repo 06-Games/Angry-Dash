@@ -38,6 +38,8 @@
 |downloadingSoloLevels = Téléchargement des niveaux
 |downloadTexTitle = Téléchargement des textures requises par le jeu
 |downloadTexSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
+|downloadTexType = Type : [0] / [1]
+|downloadTexTexNumber = Texture : [0] / [1]
 |downloadRequireInternetTitle = Une connexion internet est requise au premier démarrage
 |downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
 |downloadRequireInternetExit = Appuyer pour quitter
@@ -57,3 +59,24 @@
 |levelFinished = est terminé
 |levelReward = Récompense
 |levelRewardCoins = Pièces
+
+//Editor - Selection - Accueil
+|editorSelectorTitle = Editeur
+|editorSelectorRecent = Récent
+|editorSelectorExplore = Explorer
+|editorSelectorSearch = Rechercher
+
+|Editeur - Selection - Explorer
+|editorExploreMusic = Musique utilisée :
+|editorExploreEdit = Modifier
+|editorExploreCopy = Copier
+|editorExploreDelete = Suppr.
+|editorExploreNew = Nouveau
+|editorExploreID = ID du\nNiveau
+|editorExploreDesc = Description
+|editorExploreEnterDesc = Entrez une description ...
+|editorExploreSearchbarKeyword = Entrez des mots clés
+|editorExploreNewLevelTitle = Créer un nouveau niveau
+|editorExploreNewLeveName = Nom...
+|editorExploreNewLeveDesc = Description...
+|editorExploreNewLeveCreate = Créer

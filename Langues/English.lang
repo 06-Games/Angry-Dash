@@ -66,7 +66,7 @@
 |editorSelectorExplore = Explore
 |editorSelectorSearch = Search
 
-|Editor - Selector - Explore
+//Editor - Selector - Explore
 |editorExploreMusic = Music Used :
 |editorExploreEdit = Edit
 |editorExploreCopy = Copy
@@ -80,3 +80,32 @@
 |editorExploreNewLeveName = Name...
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Create
+
+//Editor - Edit Mode
+|editorMenuDelete = Delete
+|editorMenuEdit = Edit
+|editorMenuBuild = Build
+|editorMenuEvents = Events
+|editorMenuOptions = Options
+|editorMenuOptionBackground = Background
+|editorMenuOptionMusic = Music
+|editorMenuOptionRGB_R = R
+|editorMenuOptionRGB_G = G
+|editorMenuOptionRGB_B = B
+|editorMenuEventsStartingPoint = Starting Point
+|editorMenuEventsArrivalPoint = Arrival Point
+|editorMenuDeleteMsg = Click on the blocks you want to delete
+|editorMenuEditColor = Color
+|editorMenuEditLayer = Layer
+|editorMenuEditRotate = Rotate
+|editorMenuEditBehavior = Behavior
+|editorMenuEditNoBlockSelected = No block is selected
+|editorMenuEditColorRGBA_R = R
+|editorMenuEditColorRGBA_G = G
+|editorMenuEditColorRGBA_B = B
+|editorMenuEditColorRGBA_A = A
+|editorMenuEditBehaviorWhenCollision = When Collision
+|editorMenuEditBehaviorWhenCollisionStop = Stop
+|editorMenuEditBehaviorWhenCollisionKill = Kill
+|editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
+|editorMenuEditBehaviorWhenCollisionBounce = Bounce

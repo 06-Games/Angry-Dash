@@ -6,7 +6,7 @@
 |settingsButton = Paramètres
 
 //Accueil - Jouer
-|playSoloLevel = Niveau de Base\nOne joueur
+|playSoloLevel = Niveau de Base\nUn joueur
 |playMultiLevel = Multijoueurs
 |playSoloLevelNumber = Niveau [0]
 

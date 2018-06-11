@@ -104,7 +104,7 @@
 |editorMenuEditColorRGBA_G = V
 |editorMenuEditColorRGBA_B = B
 |editorMenuEditColorRGBA_A = A
-|editorMenuEditBehaviorWhenCollision = Quand Collision
+|editorMenuEditBehaviorWhenCollision = Paramètre de Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stop
 |editorMenuEditBehaviorWhenCollisionKill = Tue
 |editorMenuEditBehaviorWhenCollisionNoCol = Pas de\ncollision

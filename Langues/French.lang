@@ -107,7 +107,7 @@
 |editorMenuEditBehaviorWhenCollision = Quand Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stop
 |editorMenuEditBehaviorWhenCollisionKill = Tue
-|editorMenuEditBehaviorWhenCollisionNoCol = Pas\ncollision
+|editorMenuEditBehaviorWhenCollisionNoCol = Pas de\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond
 |editorMenuEditBehaviorWhenCollisionBoost = Accélération
-|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur d'Accélération
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur

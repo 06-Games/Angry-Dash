@@ -110,3 +110,4 @@
 |editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Bounce
 |editorMenuEditBehaviorWhenCollisionBoost = Boost
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost Multiplier

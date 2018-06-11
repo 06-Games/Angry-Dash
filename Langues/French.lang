@@ -110,3 +110,4 @@
 |editorMenuEditBehaviorWhenCollisionNoCol = Pas\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond
 |editorMenuEditBehaviorWhenCollisionBoost = Accélération
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur d'Accélération

@@ -109,3 +109,4 @@
 |editorMenuEditBehaviorWhenCollisionKill = Tue
 |editorMenuEditBehaviorWhenCollisionNoCol = Pas\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond
+|editorMenuEditBehaviorWhenCollisionBoost = Accélération

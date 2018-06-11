@@ -109,3 +109,4 @@
 |editorMenuEditBehaviorWhenCollisionKill = Kill
 |editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Bounce
+|editorMenuEditBehaviorWhenCollisionBoost = Boost

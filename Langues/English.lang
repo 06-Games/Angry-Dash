@@ -59,6 +59,9 @@
 |levelFinished = is finished
 |levelReward = Reward
 |levelRewardCoins = Coins
+|levelPaused = Pause
+|levelResume = Resume
+|levelQuit = Quit
 
 //Editor - Selector - Home
 |editorSelectorTitle = Editor
@@ -111,3 +114,11 @@
 |editorMenuEditBehaviorWhenCollisionBounce = Bounce
 |editorMenuEditBehaviorWhenCollisionBoost = Boost
 |editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost\nMultiplier
+
+//Editor - Soundboard
+|editorSoundBoardDownload = Download
+|editorSoundBoardDownloadingKB = [0] KB/s
+|editorSoundBoardDownloadingMB = [0] MB/s
+|editorSoundBoardDownloadingStatus = [0] MB on [1] MB
+|editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choose

@@ -122,3 +122,4 @@
 |editorSoundBoardDownloadingStatus = [0] Mo sur [1] Mo
 |editorSoundBoardActualMusic = <b> Musique :</b> <i> [0] </i>
 |editorSoundBoardChoose = Choisir
+|editorSoundBoardChosen = Choisi

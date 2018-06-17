@@ -123,3 +123,5 @@
 |editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
 |editorSoundBoardChoose = Choose
 |editorSoundBoardChosen = Chosen
+|editorSoundBoardPlay = Play
+|editorSoundBoardPause = Pause

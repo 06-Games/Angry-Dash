@@ -31,6 +31,10 @@
 |shopWatchAd = Watch
 |shopInternetRequire = An internet connection is required\nto load the shop
 
+//Home - Inventory
+|inventoryLocked = To Unlock
+|inventoryActual = Actual
+
 //SplashScreen
 |loadingScene = Chargement
 

@@ -15,6 +15,7 @@
 |languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
 |languageChangCancel = Cancel
 |languageChangApply = Reload
+|fpsCounter = FPS Counter
 |soundSettingsMenu = Sound
 |masterSoundSettings = Master
 |musicSoundSettings = Musics

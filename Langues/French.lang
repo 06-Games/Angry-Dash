@@ -15,6 +15,7 @@
 |languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
 |languageChangCancel = Annuler
 |languageChangApply = Recharger
+|fpsCounter = Compteur de FPS
 |soundSettingsMenu = Audio
 |masterSoundSettings = Principal
 |musicSoundSettings = Musiques

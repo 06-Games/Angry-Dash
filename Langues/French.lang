@@ -89,6 +89,12 @@
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Créer
 
+//Editeur - Selection - Rechercher
+|editorSearchNoUser = Quelqu'un
+|editorSearchNoID = Inconnu
+|editorSearchUser = par [0]
+|editorSearchID = ID : [0]
+
 //Editeur - Mode Edition
 |editorMenuDelete = Supprimer
 |editorMenuEdit = Editer

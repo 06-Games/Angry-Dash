@@ -6,7 +6,7 @@
 |settingsButton = Paramètres
 
 //Accueil - Jouer
-|playSoloLevel = Niveau de Base\nOne joueur
+|playSoloLevel = Niveau de Base\nUn joueur
 |playMultiLevel = Multijoueurs
 |playSoloLevelNumber = Niveau [0]
 
@@ -15,6 +15,7 @@
 |languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
 |languageChangCancel = Annuler
 |languageChangApply = Recharger
+|fpsCounter = Compteur de FPS
 |soundSettingsMenu = Audio
 |masterSoundSettings = Principal
 |musicSoundSettings = Musiques
@@ -25,11 +26,15 @@
 |musicCredits = Musiques
 |devCredits = Développeurs
 
-//Home - Magasin
+//Accueil - Magasin
 |shopBuyPlayer = Joueur
 |shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 credits supplémentaires ?
 |shopWatchAd = Regarder
 |shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
+
+//Accueil - Inventaire
+|inventoryLocked = A Débloquer
+|inventoryActual = Actuel
 
 //SplashScreen
 |loadingScene = Chargement
@@ -44,7 +49,7 @@
 |downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
 |downloadRequireInternetExit = Appuyer pour quitter
 
-//06Games Account Connection
+//Connection 06Games Account
 |06GamesAccountConnectionTitle = Un compte 06Games est requis pour lancer le jeu
 |06GamesAccountConnectionUsername = E-Mail / Nom d'utilisateur
 |06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
@@ -59,8 +64,11 @@
 |levelFinished = est terminé
 |levelReward = Récompense
 |levelRewardCoins = Pièces
+|levelPaused = Pause
+|levelResume = Reprendre
+|levelQuit = Quitter
 
-//Editor - Selection - Accueil
+//Editeur - Selection - Accueil
 |editorSelectorTitle = Editeur
 |editorSelectorRecent = Récent
 |editorSelectorExplore = Explorer
@@ -81,7 +89,14 @@
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Créer
 
-//Editor - Edit Mode
+//Editeur - Selection - Rechercher
+|editorSearchNoUser = Quelqu'un
+|editorSearchNoID = Inconnu
+|editorSearchUser = par [0]
+|editorSearchID = ID : [0]
+|editorSearchDescription = Description
+
+//Editeur - Mode Edition
 |editorMenuDelete = Supprimer
 |editorMenuEdit = Editer
 |editorMenuBuild = Construire
@@ -104,8 +119,21 @@
 |editorMenuEditColorRGBA_G = V
 |editorMenuEditColorRGBA_B = B
 |editorMenuEditColorRGBA_A = A
-|editorMenuEditBehaviorWhenCollision = Quand Collision
+|editorMenuEditBehaviorWhenCollision = Paramètre de Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stop
 |editorMenuEditBehaviorWhenCollisionKill = Tue
-|editorMenuEditBehaviorWhenCollisionNoCol = Pas\ncollision
+|editorMenuEditBehaviorWhenCollisionNoCol = Pas de\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond
+|editorMenuEditBehaviorWhenCollisionBoost = Accélération
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur
+
+//Editeur - Soundboard
+|editorSoundBoardDownload = Télécharger
+|editorSoundBoardDownloadingKB = [0] Ko/s
+|editorSoundBoardDownloadingMB = [0] Mo/s
+|editorSoundBoardDownloadingStatus = [0] Mo sur [1] Mo
+|editorSoundBoardActualMusic = <b> Musique :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choisir
+|editorSoundBoardChosen = Choisi
+|editorSoundBoardPlay = Lire
+|editorSoundBoardPause = Pause

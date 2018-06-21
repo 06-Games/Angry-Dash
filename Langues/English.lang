@@ -15,6 +15,7 @@
 |languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
 |languageChangCancel = Cancel
 |languageChangApply = Reload
+|fpsCounter = FPS Counter
 |soundSettingsMenu = Sound
 |masterSoundSettings = Master
 |musicSoundSettings = Musics
@@ -30,6 +31,10 @@
 |shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
 |shopWatchAd = Watch
 |shopInternetRequire = An internet connection is required\nto load the shop
+
+//Home - Inventory
+|inventoryLocked = To Unlock
+|inventoryActual = Actual
 
 //SplashScreen
 |loadingScene = Chargement
@@ -59,6 +64,9 @@
 |levelFinished = is finished
 |levelReward = Reward
 |levelRewardCoins = Coins
+|levelPaused = Pause
+|levelResume = Resume
+|levelQuit = Quit
 
 //Editor - Selector - Home
 |editorSelectorTitle = Editor
@@ -80,6 +88,13 @@
 |editorExploreNewLeveName = Name...
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Create
+
+//Editor - Selector - Search
+|editorSearchNoUser = Somebody
+|editorSearchNoID = Unkown
+|editorSearchUser = by [0]
+|editorSearchID = ID : [0]
+|editorSearchDescription = Descriptions
 
 //Editor - Edit Mode
 |editorMenuDelete = Delete
@@ -109,3 +124,16 @@
 |editorMenuEditBehaviorWhenCollisionKill = Kill
 |editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Bounce
+|editorMenuEditBehaviorWhenCollisionBoost = Boost
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost\nMultiplier
+
+//Editor - Soundboard
+|editorSoundBoardDownload = Download
+|editorSoundBoardDownloadingKB = [0] KB/s
+|editorSoundBoardDownloadingMB = [0] MB/s
+|editorSoundBoardDownloadingStatus = [0] MB on [1] MB
+|editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choose
+|editorSoundBoardChosen = Chosen
+|editorSoundBoardPlay = Play
+|editorSoundBoardPause = Pause

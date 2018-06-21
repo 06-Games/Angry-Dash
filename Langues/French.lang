@@ -94,6 +94,7 @@
 |editorSearchNoID = Inconnu
 |editorSearchUser = par [0]
 |editorSearchID = ID : [0]
+|editorSearchDescription = Description
 
 //Editeur - Mode Edition
 |editorMenuDelete = Supprimer

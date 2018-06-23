@@ -72,7 +72,7 @@
 |editorSelectorTitle = Editeur
 |editorSelectorRecent = Récent
 |editorSelectorExplore = Explorer
-|editorSelectorSearch = Rechercher
+|editorSelectorOnline = Monde
 
 //Editeur - Selection - Explorer
 |editorExploreMusic = Musique utilisée :
@@ -89,12 +89,15 @@
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Créer
 
-//Editeur - Selection - Rechercher
-|editorSearchNoUser = Quelqu'un
-|editorSearchNoID = Inconnu
-|editorSearchUser = par [0]
-|editorSearchID = ID : [0]
-|editorSearchDescription = Description
+//Editeur - Selection - Online
+|editorOnlineNoUser = Quelqu'un
+|editorOnlineNoID = Inconnu
+|editorOnlineUser = par [0]
+|editorOnlineID = ID : [0]
+|editorOnlineSearchbarKeyword = Entrez des mots clés
+|editorOnlineDescription = Description
+|editorOnlineMusic = <i>[0]</i> par <b>[1]</b>
+|editorOnlineDownloadMusic = Télécharger
 
 //Editeur - Mode Edition
 |editorMenuDelete = Supprimer

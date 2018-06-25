@@ -28,7 +28,7 @@
 
 //Accueil - Magasin
 |shopBuyPlayer = Joueur
-|shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 credits supplémentaires ?
+|shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 crédits supplémentaires ?
 |shopWatchAd = Regarder
 |shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
 
@@ -111,7 +111,7 @@
 |editorMenuOptionRGB_G = V
 |editorMenuOptionRGB_B = B
 |editorMenuEventsStartingPoint = Point de départ
-|editorMenuEventsArrivalPoint = Point d'arrivé
+|editorMenuEventsArrivalPoint = Point d'arrivée
 |editorMenuDeleteMsg = Cliquez sur les blocs que vous voulez supprimer
 |editorMenuEditColor = Couleur
 |editorMenuEditLayer = Couche
@@ -123,7 +123,7 @@
 |editorMenuEditColorRGBA_B = B
 |editorMenuEditColorRGBA_A = A
 |editorMenuEditBehaviorWhenCollision = Paramètre de Collision
-|editorMenuEditBehaviorWhenCollisionStop = Stop
+|editorMenuEditBehaviorWhenCollisionStop = Stoppe
 |editorMenuEditBehaviorWhenCollisionKill = Tue
 |editorMenuEditBehaviorWhenCollisionNoCol = Pas de\ncollision
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond

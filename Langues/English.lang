@@ -140,3 +140,18 @@
 |editorSoundBoardChosen = Chosen
 |editorSoundBoardPlay = Play
 |editorSoundBoardPause = Pause
+
+//Multiplayer
+|multiplayerHost = Host
+|multiplayerServers = Servers
+|multiplayerFavoriteServers = Favorite Servers
+|multiplayerIPAdress = IP Adress :
+|multiplayerConnect = Connect
+|multiplayerAdd = Add
+|multiplayerRemove = Remove
+|multiplayerRefresh = Refresh
+|multiplayerConnecting = Connecting ...
+|multiplayerSyncing = Syncing
+|multiplayerError = Error
+|multiplayerPlayers = [0]/[1]
+|multiplayerPlayersUnkown = ?/?

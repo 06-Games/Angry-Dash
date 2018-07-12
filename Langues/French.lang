@@ -7,7 +7,7 @@
 
 //Accueil - Jouer
 |playSoloLevel = Niveau de Base\nUn joueur
-|playMultiLevel = Multijoueurs
+|playMultiLevel = multijoueur
 |playSoloLevelNumber = Niveau [0]
 
 //Accueil - Paramètres
@@ -139,4 +139,19 @@
 |editorSoundBoardChoose = Choisir
 |editorSoundBoardChosen = Choisi
 |editorSoundBoardPlay = Lire
-|editorSoundBoardPause = Pause
+|editorSoundBoardPause = Pause*
+
+//Multijoueur
+|multiplayerHost = Héberger
+|multiplayerServers = Serveurs
+|multiplayerFavoriteServers = Serveurs Favoris
+|multiplayerIPAdress = Adresse IP :
+|multiplayerConnect = Connecter
+|multiplayerAdd = Ajouter
+|multiplayerRemove = Retirer
+|multiplayerRefresh = Rafraîchir
+|multiplayerConnecting = Connection ...
+|multiplayerSyncing = Synchronisation
+|multiplayerError = Erreur
+|multiplayerPlayers = [0]/[1]
+|multiplayerPlayersUnkown = ?/?

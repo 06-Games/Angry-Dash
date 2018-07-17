@@ -5,6 +5,12 @@
 |editorButton = Editor
 |settingsButton = Settings
 
+//Home - Google Play Service
+|googleServiceReconnect = Reconnect
+|googleServiceAuthenticating = Authenticating...
+|googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
+
+
 //Home - Play
 |playSoloLevel = Basic Level\nOne Player
 |playMultiLevel = Multiplayer

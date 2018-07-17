@@ -5,6 +5,11 @@
 |editorButton = Editeur
 |settingsButton = Paramètres
 
+//Accueil - Service Google Play
+|googleServiceReconnect = Se Reconnecter
+|googleServiceAuthenticating = Authentification...
+|googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.
+
 //Accueil - Jouer
 |playSoloLevel = Niveau de Base\nUn joueur
 |playMultiLevel = multijoueur

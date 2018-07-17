@@ -81,6 +81,8 @@
 
 //Editeur - Selection - Explorer
 |editorExploreMusic = Musique utilisée :
+|editorExplorePublish = Publier
+|editorExploreShare = Partager
 |editorExploreEdit = Modifier
 |editorExploreCopy = Copier
 |editorExploreDelete = Suppr.

@@ -36,7 +36,7 @@
 |shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 crédits supplémentaires ?
 |shopWatchAd = Regarder
 |shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
-|shopServerError = Une connection avec notre serveur n'a pu etre établie,\nexcusez-nous de la gêne occasionnée
+|shopServerError = Une connection avec notre serveur\nn'a pu etre établie,\nexcusez-nous de la gêne occasionnée
 
 //Accueil - Inventaire
 |inventoryLocked = A Débloquer

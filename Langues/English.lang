@@ -37,7 +37,7 @@
 |shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
 |shopWatchAd = Watch
 |shopInternetRequire = An internet connection is required\nto load the shop
-|shopServerError = A connection with our server couldn't be established,\nexcuse us of the inconvenience
+|shopServerError = A connection with our server\ncouldn't be established,\nexcuse us of the inconvenience
 
 //Home - Inventory
 |inventoryLocked = To Unlock

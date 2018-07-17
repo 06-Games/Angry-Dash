@@ -12,7 +12,7 @@
 
 //Accueil - Jouer
 |playSoloLevel = Niveau de Base\nUn joueur
-|playMultiLevel = multijoueur
+|playMultiLevel = Multijoueur
 |playSoloLevelNumber = Niveau [0]
 
 //Accueil - Paramètres

@@ -10,7 +10,6 @@
 |googleServiceAuthenticating = Authenticating...
 |googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
 
-
 //Home - Play
 |playSoloLevel = Basic Level\nOne Player
 |playMultiLevel = Multiplayer
@@ -62,7 +61,7 @@
 |06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
 |06GamesAccountConnectionPassword = Password
 |06GamesAccountConnectionPasswordExemple = A_Very_Good_Password
-|06GamesAccountConnectionLogin = log in
+|06GamesAccountConnectionLogin = Log in
 |06GamesAccountConnectionError = Connexion error,\ncheck your username (or e-mail) and your password then re-check
 |06GamesAccountConnecting = Connecting ...\n\n<b>Please Wait</b>
 

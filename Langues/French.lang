@@ -61,7 +61,7 @@
 |06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
 |06GamesAccountConnectionPassword = Mot de passe
 |06GamesAccountConnectionPasswordExemple = Un_Super_Mot_De_Passe
-|06GamesAccountConnectionConnect = Se Connecter
+|06GamesAccountConnectionLogin = Se Connecter
 |06GamesAccountConnectionError = Erreur de connexion,\nVérifiez votre nom d'utilisateur (ou e-mail) et votre mot de passe puis re-vérifiez
 |06GamesAccountConnecting = Connexion...\n\n<b>Veuillez patienter</b>
 

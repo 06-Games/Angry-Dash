@@ -9,6 +9,9 @@
 |googleServiceReconnect = Se Reconnecter
 |googleServiceAuthenticating = Authentification...
 |googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.
+|googleServiceAuthenticationExitWarning = Ignorer cette étape vous empechera de débloquer des succès et autres évènements du Google Play Jeu durant cette instance du jeu,\nêtes vous sur de continuer ?
+|googleServiceAuthenticationExitYes = Oui
+|googleServiceAuthenticationExitNo = Non
 
 //Accueil - Jouer
 |playSoloLevel = Niveau de Base\nUn joueur

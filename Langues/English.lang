@@ -9,6 +9,9 @@
 |googleServiceReconnect = Reconnect
 |googleServiceAuthenticating = Authenticating...
 |googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
+|googleServiceAuthenticationExitWarning = Ignoring this step will prevent you from unlocking successes and other Google Play Game events during this instance of the game,\nare you sure to continue ?
+|googleServiceAuthenticationExitYes = Yes
+|googleServiceAuthenticationExitNo = No
 
 //Home - Play
 |playSoloLevel = Basic Level\nOne Player

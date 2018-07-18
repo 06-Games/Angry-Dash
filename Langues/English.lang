@@ -46,7 +46,7 @@
 |inventoryActual = Actual
 
 //SplashScreen
-|loadingScene = Chargement
+|loadingScene = Loading
 
 //Download Dependencies
 |downloadingSoloLevels = Downloading levels

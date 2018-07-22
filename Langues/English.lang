@@ -5,7 +5,12 @@
 |editorButton = Editor
 |settingsButton = Settings
 
-//Home - Google Play Service
+//Download Languages
+|downloadLangTitle = Downloading languages files
+|downloadLangSubtitle = This may take several seconds\nDon't exit the game during this operation
+|downloadLangWait = Please Wait ...
+
+//Google Play Service
 |googleServiceReconnect = Reconnect
 |googleServiceAuthenticating = Authenticating...
 |googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start

@@ -5,7 +5,12 @@
 |editorButton = Editeur
 |settingsButton = Paramètres
 
-//Accueil - Service Google Play
+//Téléchargement Langues
+|downloadLangTitle = Téléchargement des fichiers de langues
+|downloadLangSubtitle = Cela peut prendre plusieurs secondes\nNe quittez pas le jeu pendant cette opération
+|downloadLangWait = Veuillez patienter ...
+
+//Service Google Play
 |googleServiceReconnect = Se Reconnecter
 |googleServiceAuthenticating = Authentification...
 |googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.

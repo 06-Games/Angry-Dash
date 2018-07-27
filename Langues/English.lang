@@ -171,3 +171,13 @@
 |multiplayerError = Error
 |multiplayerPlayers = [0]/[1]
 |multiplayerPlayersUnkown = ?/?
+
+//Discord
+|discordStarting_title = Starting the game
+|discordHome_title = In the home menu
+|discordEditor_title = In the editor
+|discordEditor_subtitle = Editing [0]
+|discordServer_title = Play in a server
+|discordServer_caption = Server : [0]:[1]
+|discordPlaying_title = Play a level
+|discordPlaying_caption = Level : [0]

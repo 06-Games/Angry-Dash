@@ -105,6 +105,14 @@
 |editorExploreNewLeveName = Nom...
 |editorExploreNewLeveDesc = Description...
 |editorExploreNewLeveCreate = Créer
+|editorExploreNewUploadTitle = Publier un niveau
+|editorExploreNewUploadName = Nom du niveau ...
+|editorExploreNewUploadDesc = Description ...
+|editorExploreNewUploadConfirm = Confirmer
+|editorExploreNewUploadWarningTitle = Attention
+|editorExploreNewUploadWarningText = En continuant le nom du niveau et sa description seront appliquée à ce niveau à la fois localement et sur notre réseau.\nDe plus, il ne sera plus possible de changer le nom du niveau.\n\n\nÊtes-vous sûr de vouloir continuer?
+|editorExploreNewUploadWarningYes = Oui
+|editorExploreNewUploadWarningNo = Non
 
 //Editeur - Selection - Online
 |editorOnlineNoUser = Quelqu'un

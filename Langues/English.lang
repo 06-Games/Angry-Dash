@@ -96,7 +96,8 @@
 |editorExploreCopy = Copy
 |editorExploreDelete = Del
 |editorExploreNew = New
-|editorExploreID = Level\nID
+|editorExploreName = Name
+|editorExploreEnterName = Enter a level name ...
 |editorExploreDesc = Description
 |editorExploreEnterDesc = Enter a description ...
 |editorExploreSearchbarKeyword = Enter keywords

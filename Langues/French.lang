@@ -36,8 +36,12 @@
 |delLogFiles = Suppr. les logs
 
 //Accueil - Crédits
-|musicCredits = Musiques
-|devCredits = Développeurs
+|creditsIdea = Idées
+|creditsScripts = Scripts
+|creditsTextures = Textures
+|creditsLayout = Mise en Page
+|creditsMusics = Musiques
+|creditsTests = Tests
 
 //Accueil - Magasin
 |shopBuyPlayer = Joueur

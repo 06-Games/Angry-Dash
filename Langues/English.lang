@@ -36,8 +36,12 @@
 |delLogFiles = Delete Log Files
 
 //Home - Credits
-|musicCredits = Musics
-|devCredits = Developpers
+|creditsIdea = Idea
+|creditsScripts = Scripts
+|creditsTextures = Textures
+|creditsLayout = Layout
+|creditsMusics = Musics
+|creditsTests = Tests
 
 //Home - Shop
 |shopBuyPlayer = Player

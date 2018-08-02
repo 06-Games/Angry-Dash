@@ -117,6 +117,7 @@
 |editorExploreNewUploadWarningText = En continuant le nom du niveau et sa description seront appliquée à ce niveau à la fois localement et sur notre réseau.\nDe plus, il ne sera plus possible de changer le nom du niveau.\n\n\nÊtes-vous sûr de vouloir continuer?
 |editorExploreNewUploadWarningYes = Oui
 |editorExploreNewUploadWarningNo = Non
+|editorExploreNewUploadChangesMade = Des changements ont été effectués depuis la dernière publication de ce niveau
 
 //Editeur - Selection - Online
 |editorOnlineNoUser = Quelqu'un

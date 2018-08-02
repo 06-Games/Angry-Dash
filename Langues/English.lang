@@ -117,6 +117,7 @@
 |editorExploreNewUploadWarningText = Continuing the name of the level and its description will be applied at this level both locally and on our network.\nAlso, it will no longer be possible to change the name of the level.\n\n\nAre you sure you want to continue?
 |editorExploreNewUploadWarningYes = Yes
 |editorExploreNewUploadWarningNo = No
+|editorExploreNewUploadChangesMade = Changes have been made since the last publication of this level
 
 //Editor - Selector - Search
 |editorOnlineNoUser = Somebody

@@ -38,6 +38,8 @@
 |graphicalMaximumFpsV-Sync = V-Sync
 |graphicalMaximumFpsUnlimited = Unlimited
 |graphicalMaximumFps = [0] FPS
+|graphicalAntiAliasingDisabled = Disabled
+|graphicalAntiAliasing = MSAA [0]
 |graphicalFullscreen = Full Screen
 
 //Home - Credits

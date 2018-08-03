@@ -28,12 +28,17 @@
 |languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
 |languageChangCancel = Annuler
 |languageChangApply = Recharger
-|fpsCounter = Compteur de FPS
 |soundSettingsMenu = Audio
 |masterSoundSettings = Principal
 |musicSoundSettings = Musiques
 |FXSoundSettings = Effets
 |delLogFiles = Suppr. les logs
+|graphicalTitle = Options Graphiques
+|graphicalFpsCounter = Compteur de FPS
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Illimité
+|graphicalMaximumFps = [0] FPS
+|graphicalFullscreen = Plein Écran
 
 //Accueil - Crédits
 |creditsIdea = Idées

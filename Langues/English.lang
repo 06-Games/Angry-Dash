@@ -28,12 +28,17 @@
 |languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
 |languageChangCancel = Cancel
 |languageChangApply = Reload
-|fpsCounter = FPS Counter
 |soundSettingsMenu = Sound
 |masterSoundSettings = Master
 |musicSoundSettings = Musics
 |FXSoundSettings = FX
 |delLogFiles = Delete Log Files
+|graphicalTitle = Graphical Options
+|graphicalFpsCounter = FPS Counter
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Unlimited
+|graphicalMaximumFps = [0] FPS
+|graphicalFullscreen = Full Screen
 
 //Home - Credits
 |creditsIdea = Idea

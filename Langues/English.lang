@@ -142,9 +142,6 @@
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Background
 |editorMenuOptionMusic = Music
-|editorMenuOptionRGB_R = R
-|editorMenuOptionRGB_G = G
-|editorMenuOptionRGB_B = B
 |editorMenuEventsStartingPoint = Starting Point
 |editorMenuEventsArrivalPoint = Arrival Point
 |editorMenuDeleteMsg = Click on the blocks you want to delete
@@ -153,10 +150,6 @@
 |editorMenuEditRotate = Rotate
 |editorMenuEditBehavior = Behavior
 |editorMenuEditNoBlockSelected = No block is selected
-|editorMenuEditColorRGBA_R = R
-|editorMenuEditColorRGBA_G = G
-|editorMenuEditColorRGBA_B = B
-|editorMenuEditColorRGBA_A = A
 |editorMenuEditBehaviorWhenCollision = When Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stop
 |editorMenuEditBehaviorWhenCollisionKill = Kill

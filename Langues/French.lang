@@ -19,7 +19,7 @@
 |googleServiceAuthenticationExitNo = Non
 
 //Accueil - Jouer
-|playSoloLevel = Niveau de Base\nUn joueur
+|playSoloLevel = Niveaux Officiels
 |playMultiLevel = Multijoueur
 |playSoloLevelNumber = Niveau [0]
 
@@ -28,12 +28,19 @@
 |languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
 |languageChangCancel = Annuler
 |languageChangApply = Recharger
-|fpsCounter = Compteur de FPS
 |soundSettingsMenu = Audio
 |masterSoundSettings = Principal
 |musicSoundSettings = Musiques
 |FXSoundSettings = Effets
 |delLogFiles = Suppr. les logs
+|graphicalTitle = Options Graphiques
+|graphicalFpsCounter = Compteur de FPS
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Illimité
+|graphicalMaximumFps = [0] FPS
+|graphicalAntiAliasingDisabled = Désactivé
+|graphicalAntiAliasing = MSAA [0]
+|graphicalFullscreen = Plein Écran
 
 //Accueil - Crédits
 |creditsIdea = Idées
@@ -137,9 +144,6 @@
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Fond
 |editorMenuOptionMusic = Musique
-|editorMenuOptionRGB_R = R
-|editorMenuOptionRGB_G = V
-|editorMenuOptionRGB_B = B
 |editorMenuEventsStartingPoint = Point de départ
 |editorMenuEventsArrivalPoint = Point d'arrivée
 |editorMenuDeleteMsg = Cliquez sur les blocs que vous voulez supprimer
@@ -148,10 +152,6 @@
 |editorMenuEditRotate = Rotation
 |editorMenuEditBehavior = Comportement
 |editorMenuEditNoBlockSelected = Aucun bloc n'est sélectionné
-|editorMenuEditColorRGBA_R = R
-|editorMenuEditColorRGBA_G = V
-|editorMenuEditColorRGBA_B = B
-|editorMenuEditColorRGBA_A = A
 |editorMenuEditBehaviorWhenCollision = Paramètre de Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stoppe
 |editorMenuEditBehaviorWhenCollisionKill = Tue

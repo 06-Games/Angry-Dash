@@ -19,7 +19,7 @@
 |googleServiceAuthenticationExitNo = No
 
 //Home - Play
-|playSoloLevel = Basic Level\nOne Player
+|playSoloLevel = Official Levels
 |playMultiLevel = Multiplayer
 |playSoloLevelNumber = Level [0]
 
@@ -28,12 +28,19 @@
 |languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
 |languageChangCancel = Cancel
 |languageChangApply = Reload
-|fpsCounter = FPS Counter
 |soundSettingsMenu = Sound
 |masterSoundSettings = Master
 |musicSoundSettings = Musics
 |FXSoundSettings = FX
 |delLogFiles = Delete Log Files
+|graphicalTitle = Graphical Options
+|graphicalFpsCounter = FPS Counter
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Unlimited
+|graphicalMaximumFps = [0] FPS
+|graphicalAntiAliasingDisabled = Disabled
+|graphicalAntiAliasing = MSAA [0]
+|graphicalFullscreen = Full Screen
 
 //Home - Credits
 |creditsIdea = Idea
@@ -137,9 +144,6 @@
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Background
 |editorMenuOptionMusic = Music
-|editorMenuOptionRGB_R = R
-|editorMenuOptionRGB_G = G
-|editorMenuOptionRGB_B = B
 |editorMenuEventsStartingPoint = Starting Point
 |editorMenuEventsArrivalPoint = Arrival Point
 |editorMenuDeleteMsg = Click on the blocks you want to delete
@@ -148,10 +152,6 @@
 |editorMenuEditRotate = Rotate
 |editorMenuEditBehavior = Behavior
 |editorMenuEditNoBlockSelected = No block is selected
-|editorMenuEditColorRGBA_R = R
-|editorMenuEditColorRGBA_G = G
-|editorMenuEditColorRGBA_B = B
-|editorMenuEditColorRGBA_A = A
 |editorMenuEditBehaviorWhenCollision = When Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stop
 |editorMenuEditBehaviorWhenCollisionKill = Kill

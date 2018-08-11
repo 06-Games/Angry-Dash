@@ -61,6 +61,18 @@
 |inventoryLocked = A Débloquer
 |inventoryActual = Actuel
 
+//Accueil - Profil
+|profileMyLevels = Mes Niveaux
+|profileMyFriends = Mes Amis
+|profileMyAccount = Mon Compte
+|profileMyLevelsDeleteWarningTitle = Attention
+|profileMyLevelsDeleteWarningText = Cette action est définitive et ne peut être annulée\n\nÊtes-vous sûr de vouloir supprimer le niveau [0] ?
+|profileMyLevelsDeleteWarningContinue = Oui
+|profileMyLevelsDeleteWarningCancel = Annuler
+|profileMyAccountSave = Sauvegarder
+|profileMyAccountAdvanced = Paramètres avancés
+|profileMyAccountDisconnect = Se Déconnecter
+
 //SplashScreen
 |loadingScene = Chargement
 

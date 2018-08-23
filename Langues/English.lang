@@ -156,8 +156,12 @@
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Background
 |editorMenuOptionMusic = Music
+|editorMenuOptionDeathMode = Death Mode
+|editorMenuOptionDeathModeLastPosition = Back to the last position
+|editorMenuOptionDeathModeLastCheckpoint = Back to the last checkpoint
 |editorMenuEventsStartingPoint = Starting Point
 |editorMenuEventsArrivalPoint = Arrival Point
+|editorMenuEventsCheckpoint = Checkpoint
 |editorMenuDeleteMsg = Click on the blocks you want to delete
 |editorMenuEditColor = Color
 |editorMenuEditLayer = Layer

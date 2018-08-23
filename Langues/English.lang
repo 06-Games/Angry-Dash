@@ -156,9 +156,7 @@
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Background
 |editorMenuOptionMusic = Music
-|editorMenuOptionDeathMode = Death Mode
-|editorMenuOptionDeathModeLastPosition = Back to the last position
-|editorMenuOptionDeathModeLastCheckpoint = Back to the last checkpoint
+|editorMenuOptionRespawnMode = Respawn Mode
 |editorMenuEventsStartingPoint = Starting Point
 |editorMenuEventsArrivalPoint = Arrival Point
 |editorMenuEventsCheckpoint = Checkpoint

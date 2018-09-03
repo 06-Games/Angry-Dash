@@ -186,8 +186,8 @@
 |editorSoundBoardPause = Pause
 
 //Multiplayer
-|multiplayerHost = Host
-|multiplayerServers = Servers
+|multiplayerOfficialServers = Official Servers
+|multiplayerCommunityServers = Community Servers
 |multiplayerFavoriteServers = Favorite Servers
 |multiplayerIPAdress = IP Adress :
 |multiplayerConnect = Connect

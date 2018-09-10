@@ -83,6 +83,17 @@
 |downloadTexSubtitle = This may take several minutes\nDon't exit the game during this operation
 |downloadTexType = Type : [0] / [1]
 |downloadTexTexNumber = Texture : [0] / [1]
+|downloadSpeedB = [0] B/s
+|downloadSpeedKB = [0] KB/s
+|downloadSpeedMB = [0] MB/s
+|downloadSpeedGB = [0] GB/s
+|downloadSpeedTB = [0] TB/s
+|downloadStateB = [0] B sur [1] B
+|downloadStateKB = [0] KB sur [1] KB
+|downloadStateMB = [0] MB sur [1] MB
+|downloadStateGB = [0] GB sur [1] GB
+|downloadStateTB = [0] TB sur [1] TB
+|downloadStatePercentage = [0]%
 |downloadRequireInternetTitle = An internet connection is required at first start
 |downloadRequireInternetSubtitle = Please check your internet connection and restart the game
 |downloadRequireInternetExit = Tap to exit

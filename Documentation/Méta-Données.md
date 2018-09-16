@@ -1,4 +1,4 @@
-<b style="color:red;">Documentation plus à jour, utiliser [celle-ci](https://06games.ddns.net:8888/06Games/Angry_Dash/wiki/M%C3%A9ta-Donn%C3%A9es) à la place</b>
+**:warning: Documentation plus à jour, utiliser [celle-ci](https://06games.ddns.net:8888/06Games/Angry_Dash/wiki/M%C3%A9ta-Donn%C3%A9es) à la place :warning:**
 
 ## Structure Globale
 

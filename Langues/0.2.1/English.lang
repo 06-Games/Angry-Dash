@@ -1,0 +1,224 @@
+//Home
+|gameTitle = Angry Dash
+|gameVersion = v[0]
+|playButton = Play
+|editorButton = Editor
+|settingsButton = Settings
+
+//Download Languages
+|downloadLangTitle = Downloading languages files
+|downloadLangTitleUpdate = Updating languages files
+|downloadLangSubtitle = This may take several seconds\nDon't exit the game during this operation
+|downloadLangWait = Please Wait ...
+
+//Google Play Service
+|googleServiceReconnect = Reconnect
+|googleServiceAuthenticating = Authenticating...
+|googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
+|googleServiceAuthenticationExitWarning = Ignoring this step will prevent you from unlocking successes and other Google Play Game events during this instance of the game,\nare you sure to continue ?
+|googleServiceAuthenticationExitYes = Yes
+|googleServiceAuthenticationExitNo = No
+
+//Home - Play
+|playSoloLevel = Official Levels
+|playMultiLevel = Multiplayer
+|playSoloLevelNumber = Level [0]
+
+//Home - Settings
+|languagesChooseMenu = Languages
+|languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
+|languageChangCancel = Cancel
+|languageChangApply = Reload
+|soundSettingsMenu = Sound
+|masterSoundSettings = Master
+|musicSoundSettings = Musics
+|FXSoundSettings = FX
+|delLogFiles = Delete Log Files
+|graphicalTitle = Graphical Options
+|graphicalFpsCounter = FPS Counter
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Unlimited
+|graphicalMaximumFps = [0] FPS
+|graphicalAntiAliasingDisabled = Disabled
+|graphicalAntiAliasing = MSAA [0]
+|graphicalFullscreen = Full Screen
+
+//Home - Credits
+|creditsConcept = Concept
+|creditsScripts = Scripts
+|creditsTextures = Textures
+|creditsLayout = Layout
+|creditsMusics = Musics
+|creditsTests = Tests
+
+//Home - Shop
+|shopBuyPlayer = Player
+|shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
+|shopWatchAd = Watch
+|shopInternetRequire = An internet connection is required\nto load the shop
+|shopServerError = A connection with our server\ncouldn't be established,\nexcuse us of the inconvenience
+
+//Home - Inventory
+|inventoryLocked = To Unlock
+|inventoryActual = Actual
+
+//Home - Profile
+|profileMyLevels = My Levels
+|profileMyFriends = My Friends
+|profileMyAccount = My Account
+|profileMyLevelsDeleteWarningTitle = Warning
+|profileMyLevelsDeleteWarningText = This action is final and can't be canceled\n\nAre you sure you want to delete the level [0] ?
+|profileMyLevelsDeleteWarningContinue = Yes
+|profileMyLevelsDeleteWarningCancel = Cancel
+|profileMyAccountSave = Save
+|profileMyAccountAdvanced = Advanced account settings
+|profileMyAccountDisconnect = Disconnect
+
+//SplashScreen
+|loadingScene = Loading
+
+//Download Dependencies
+|downloadingSoloLevels = Downloading levels
+|downloadTexTitle = Downloading textures required by the game
+|downloadTexSubtitle = This may take several minutes\nDon't exit the game during this operation
+|downloadTexType = Type : [0] / [1]
+|downloadTexTexNumber = Texture : [0] / [1]
+|downloadSpeedB = [0] B/s
+|downloadSpeedKB = [0] KB/s
+|downloadSpeedMB = [0] MB/s
+|downloadSpeedGB = [0] GB/s
+|downloadSpeedTB = [0] TB/s
+|downloadStateB = [0] B sur [1] B
+|downloadStateKB = [0] KB sur [1] KB
+|downloadStateMB = [0] MB sur [1] MB
+|downloadStateGB = [0] GB sur [1] GB
+|downloadStateTB = [0] TB sur [1] TB
+|downloadStatePercentage = [0]%
+|downloadRequireInternetTitle = An internet connection is required at first start
+|downloadRequireInternetSubtitle = Please check your internet connection and restart the game
+|downloadRequireInternetExit = Tap to exit
+
+//06Games Account Connection
+|06GamesAccountConnectionTitle = A 06Games Account is required to start the game
+|06GamesAccountConnectionUsername = E-Mail / Username
+|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
+|06GamesAccountConnectionPassword = Password
+|06GamesAccountConnectionPasswordExemple = A_Very_Good_Password
+|06GamesAccountConnectionLogin = Log in
+|06GamesAccountConnectionError = Connexion error,\ncheck your username (or e-mail) and your password then re-check
+|06GamesAccountConnecting = Connecting ...\n\n<b>Please Wait</b>
+
+//LevelPlayer
+|playerTurn = Turn : [0]
+|levelFinished = is finished
+|levelReward = Reward
+|levelRewardCoins = Coins
+|levelPaused = Pause
+|levelResume = Resume
+|levelQuit = Quit
+
+//Editor - Selector - Home
+|editorSelectorTitle = Editor
+|editorSelectorRecent = Recent
+|editorSelectorExplore = Explore
+|editorSelectorOnline = Online
+
+//Editor - Selector - Explore
+|editorExploreMusic = Music Used :
+|editorExplorePublish = Publish
+|editorExploreShare = Share
+|editorExploreEdit = Edit
+|editorExploreCopy = Copy
+|editorExploreDelete = Del
+|editorExploreNew = New
+|editorExploreName = Name
+|editorExploreEnterName = Enter a level name ...
+|editorExploreDesc = Description
+|editorExploreEnterDesc = Enter a description ...
+|editorExploreSearchbarKeyword = Enter keywords
+|editorExploreNewLevelTitle = Create a new level
+|editorExploreNewLeveName = Name...
+|editorExploreNewLeveDesc = Description...
+|editorExploreNewLeveCreate = Create
+|editorExploreNewUploadTitle = Upload a level
+|editorExploreNewUploadName = Level name ...
+|editorExploreNewUploadDesc = Description ...
+|editorExploreNewUploadConfirm = Confirm
+|editorExploreNewUploadWarningTitle = Warning
+|editorExploreNewUploadWarningText = Continuing the name of the level and its description will be applied at this level both locally and on our network.\nAlso, it will no longer be possible to change the name of the level.\n\n\nAre you sure you want to continue?
+|editorExploreNewUploadWarningYes = Yes
+|editorExploreNewUploadWarningNo = No
+|editorExploreNewUploadChangesMade = Changes have been made since the last publication of this level
+
+//Editor - Selector - Search
+|editorOnlineNoUser = Somebody
+|editorOnlineNoID = Unkown
+|editorOnlineUser = by [0]
+|editorOnlineID = ID : [0]
+|editorOnlineSearchbarKeyword = Enter keywords
+|editorOnlineDescription = Description
+|editorOnlineMusic = <i>[0]</i> by <b>[1]</b>
+|editorOnlineDownloadMusic = Download
+
+//Editor - Edit Mode
+|editorMenuDelete = Delete
+|editorMenuEdit = Edit
+|editorMenuBuild = Build
+|editorMenuEvents = Events
+|editorMenuOptions = Options
+|editorMenuOptionBackground = Background
+|editorMenuOptionMusic = Music
+|editorMenuOptionRespawnMode = Respawn Mode
+|editorMenuEventsStartingPoint = Starting Point
+|editorMenuEventsArrivalPoint = Arrival Point
+|editorMenuEventsCheckpoint = Checkpoint
+|editorMenuEventsMove = Move
+|editorMenuDeleteMsg = Click on the blocks you want to delete
+|editorMenuEditColor = Color
+|editorMenuEditLayer = Layer
+|editorMenuEditRotate = Rotate
+|editorMenuEditBehavior = Behavior
+|editorMenuEditNoBlockSelected = No block is selected
+|editorMenuEditBehaviorWhenCollision = When Collision
+|editorMenuEditBehaviorWhenCollisionStop = Stop
+|editorMenuEditBehaviorWhenCollisionKill = Kill
+|editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
+|editorMenuEditBehaviorWhenCollisionBounce = Bounce
+|editorMenuEditBehaviorWhenCollisionBoost = Boost
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost\nMultiplier
+
+//Editor - Soundboard
+|editorSoundBoardDownload = Download
+|editorSoundBoardDownloadingKB = [0] KB/s
+|editorSoundBoardDownloadingMB = [0] MB/s
+|editorSoundBoardDownloadingStatus = [0] MB on [1] MB
+|editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choose
+|editorSoundBoardChosen = Chosen
+|editorSoundBoardPlay = Play
+|editorSoundBoardPause = Pause
+
+//Multiplayer
+|multiplayerOfficialServers = Official Servers
+|multiplayerCommunityServers = Community Servers
+|multiplayerFavoriteServers = Favorite Servers
+|multiplayerIPAdress = IP Adress :
+|multiplayerConnect = Connect
+|multiplayerAdd = Add
+|multiplayerRemove = Remove
+|multiplayerRefresh = Refresh
+|multiplayerConnecting = Connecting ...
+|multiplayerSyncing = Syncing
+|multiplayerError = Error
+|multiplayerPlayers = [0]/[1]
+|multiplayerPlayersUnkown = ?/?
+
+//Discord
+|discordStarting_title = Starting the game
+|discordHome_title = In the home menu
+|discordEditor_title = In the editor
+|discordEditor_subtitle = Editing [0]
+|discordServer_title = Play in a server
+|discordServer_caption = Server : [0]:[1]
+|discordPlaying_title = Play a level
+|discordPlaying_caption = Level : [0]

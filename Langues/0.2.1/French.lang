@@ -1,0 +1,224 @@
+//Accueil
+|gameTitle = Angry Dash
+|gameVersion = v[0]
+|playButton = Jouer
+|editorButton = Editeur
+|settingsButton = Paramètres
+
+//Téléchargement Langues
+|downloadLangTitle = Téléchargement des fichiers de langues
+|downloadLangTitleUpdate = Mise à jour des fichiers de langues
+|downloadLangSubtitle = Cela peut prendre plusieurs secondes\nNe quittez pas le jeu pendant cette opération
+|downloadLangWait = Veuillez patienter ...
+
+//Service Google Play
+|googleServiceReconnect = Se Reconnecter
+|googleServiceAuthenticating = Authentification...
+|googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.
+|googleServiceAuthenticationExitWarning = Ignorer cette étape vous empechera de débloquer des succès et autres évènements du Google Play Jeu durant cette instance du jeu,\nêtes vous sur de continuer ?
+|googleServiceAuthenticationExitYes = Oui
+|googleServiceAuthenticationExitNo = Non
+
+//Accueil - Jouer
+|playSoloLevel = Niveaux Officiels
+|playMultiLevel = Multijoueur
+|playSoloLevelNumber = Niveau [0]
+
+//Accueil - Paramètres
+|languagesChooseMenu = Langues
+|languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
+|languageChangCancel = Annuler
+|languageChangApply = Recharger
+|soundSettingsMenu = Audio
+|masterSoundSettings = Principal
+|musicSoundSettings = Musiques
+|FXSoundSettings = Effets
+|delLogFiles = Suppr. les logs
+|graphicalTitle = Options Graphiques
+|graphicalFpsCounter = Compteur de FPS
+|graphicalMaximumFpsV-Sync = V-Sync
+|graphicalMaximumFpsUnlimited = Illimité
+|graphicalMaximumFps = [0] FPS
+|graphicalAntiAliasingDisabled = Désactivé
+|graphicalAntiAliasing = MSAA [0]
+|graphicalFullscreen = Plein Écran
+
+//Accueil - Crédits
+|creditsConcept = Concept
+|creditsScripts = Scripts
+|creditsTextures = Textures
+|creditsLayout = Mise en Page
+|creditsMusics = Musiques
+|creditsTests = Tests
+
+//Accueil - Magasin
+|shopBuyPlayer = Joueur
+|shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 crédits supplémentaires ?
+|shopWatchAd = Regarder
+|shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
+|shopServerError = Une connection avec notre serveur\nn'a pu etre établie,\nexcusez-nous de la gêne occasionnée
+
+//Accueil - Inventaire
+|inventoryLocked = A Débloquer
+|inventoryActual = Actuel
+
+//Accueil - Profil
+|profileMyLevels = Mes Niveaux
+|profileMyFriends = Mes Amis
+|profileMyAccount = Mon Compte
+|profileMyLevelsDeleteWarningTitle = Attention
+|profileMyLevelsDeleteWarningText = Cette action est définitive et ne peut être annulée\n\nÊtes-vous sûr de vouloir supprimer le niveau [0] ?
+|profileMyLevelsDeleteWarningContinue = Oui
+|profileMyLevelsDeleteWarningCancel = Annuler
+|profileMyAccountSave = Sauvegarder
+|profileMyAccountAdvanced = Paramètres avancés
+|profileMyAccountDisconnect = Se Déconnecter
+
+//SplashScreen
+|loadingScene = Chargement
+
+//Téléchargement des Dépendances
+|downloadingSoloLevels = Téléchargement des niveaux
+|downloadTexTitle = Téléchargement des textures requises par le jeu
+|downloadTexSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
+|downloadTexType = Type : [0] / [1]
+|downloadTexTexNumber = Texture : [0] / [1]
+|downloadSpeedB = [0] o/s
+|downloadSpeedKB = [0] Ko/s
+|downloadSpeedMB = [0] Mo/s
+|downloadSpeedGB = [0] Go/s
+|downloadSpeedTB = [0] To/s
+|downloadStateB = [0] o sur [1] o
+|downloadStateKB = [0] Ko sur [1] Ko
+|downloadStateMB = [0] Mo sur [1] Mo
+|downloadStateGB = [0] Go sur [1] Go
+|downloadStateTB = [0] To sur [1] To
+|downloadStatePercentage = [0]%
+|downloadRequireInternetTitle = Une connexion internet est requise au premier démarrage
+|downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
+|downloadRequireInternetExit = Appuyer pour quitter
+
+//Connection 06Games Account
+|06GamesAccountConnectionTitle = Un compte 06Games est requis pour lancer le jeu
+|06GamesAccountConnectionUsername = E-Mail / Nom d'utilisateur
+|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
+|06GamesAccountConnectionPassword = Mot de passe
+|06GamesAccountConnectionPasswordExemple = Un_Super_Mot_De_Passe
+|06GamesAccountConnectionLogin = Se Connecter
+|06GamesAccountConnectionError = Erreur de connexion,\nVérifiez votre nom d'utilisateur (ou e-mail) et votre mot de passe puis re-vérifiez
+|06GamesAccountConnecting = Connexion...\n\n<b>Veuillez patienter</b>
+
+//Joueur de niveaux
+|playerTurn = Tour : [0]
+|levelFinished = est terminé
+|levelReward = Récompense
+|levelRewardCoins = Pièces
+|levelPaused = Pause
+|levelResume = Reprendre
+|levelQuit = Quitter
+
+//Editeur - Selection - Accueil
+|editorSelectorTitle = Editeur
+|editorSelectorRecent = Récent
+|editorSelectorExplore = Explorer
+|editorSelectorOnline = Monde
+
+//Editeur - Selection - Explorer
+|editorExploreMusic = Musique utilisée :
+|editorExplorePublish = Publier
+|editorExploreShare = Partager
+|editorExploreEdit = Modifier
+|editorExploreCopy = Copier
+|editorExploreDelete = Suppr.
+|editorExploreNew = Nouveau
+|editorExploreName = Nom
+|editorExploreEnterName = Entez le nouveau nom du niveau ...
+|editorExploreDesc = Description
+|editorExploreEnterDesc = Entrez une description ...
+|editorExploreSearchbarKeyword = Entrez des mots clés
+|editorExploreNewLevelTitle = Créer un nouveau niveau
+|editorExploreNewLeveName = Nom...
+|editorExploreNewLeveDesc = Description...
+|editorExploreNewLeveCreate = Créer
+|editorExploreNewUploadTitle = Publier un niveau
+|editorExploreNewUploadName = Nom du niveau ...
+|editorExploreNewUploadDesc = Description ...
+|editorExploreNewUploadConfirm = Confirmer
+|editorExploreNewUploadWarningTitle = Attention
+|editorExploreNewUploadWarningText = En continuant le nom du niveau et sa description seront appliquée à ce niveau à la fois localement et sur notre réseau.\nDe plus, il ne sera plus possible de changer le nom du niveau.\n\n\nÊtes-vous sûr de vouloir continuer?
+|editorExploreNewUploadWarningYes = Oui
+|editorExploreNewUploadWarningNo = Non
+|editorExploreNewUploadChangesMade = Des changements ont été effectués depuis la dernière publication de ce niveau
+
+//Editeur - Selection - Online
+|editorOnlineNoUser = Quelqu'un
+|editorOnlineNoID = Inconnu
+|editorOnlineUser = par [0]
+|editorOnlineID = ID : [0]
+|editorOnlineSearchbarKeyword = Entrez des mots clés
+|editorOnlineDescription = Description
+|editorOnlineMusic = <i>[0]</i> par <b>[1]</b>
+|editorOnlineDownloadMusic = Télécharger
+
+//Editeur - Mode Edition
+|editorMenuDelete = Supprimer
+|editorMenuEdit = Editer
+|editorMenuBuild = Construire
+|editorMenuEvents = Evènements
+|editorMenuOptions = Options
+|editorMenuOptionBackground = Fond
+|editorMenuOptionMusic = Musique
+|editorMenuOptionRespawnMode = Mode de Réapparition
+|editorMenuEventsStartingPoint = Point de départ
+|editorMenuEventsArrivalPoint = Point d'arrivée
+|editorMenuEventsCheckpoint = Point de contrôle
+|editorMenuEventsMove = Déplacer
+|editorMenuDeleteMsg = Cliquez sur les blocs que vous voulez supprimer
+|editorMenuEditColor = Couleur
+|editorMenuEditLayer = Couche
+|editorMenuEditRotate = Rotation
+|editorMenuEditBehavior = Comportement
+|editorMenuEditNoBlockSelected = Aucun bloc n'est sélectionné
+|editorMenuEditBehaviorWhenCollision = Paramètre de Collision
+|editorMenuEditBehaviorWhenCollisionStop = Stoppe
+|editorMenuEditBehaviorWhenCollisionKill = Tue
+|editorMenuEditBehaviorWhenCollisionNoCol = Pas de\ncollision
+|editorMenuEditBehaviorWhenCollisionBounce = Rebond
+|editorMenuEditBehaviorWhenCollisionBoost = Accélération
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur
+
+//Editeur - Soundboard
+|editorSoundBoardDownload = Télécharger
+|editorSoundBoardDownloadingKB = [0] Ko/s
+|editorSoundBoardDownloadingMB = [0] Mo/s
+|editorSoundBoardDownloadingStatus = [0] Mo sur [1] Mo
+|editorSoundBoardActualMusic = <b> Musique :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choisir
+|editorSoundBoardChosen = Choisi
+|editorSoundBoardPlay = Lire
+|editorSoundBoardPause = Pause
+
+//Multijoueur
+|multiplayerOfficialServers = Serveurs Officiels
+|multiplayerCommunityServers = Serveurs Communautaires
+|multiplayerFavoriteServers = Serveurs Favoris
+|multiplayerIPAdress = Adresse IP :
+|multiplayerConnect = Connecter
+|multiplayerAdd = Ajouter
+|multiplayerRemove = Retirer
+|multiplayerRefresh = Rafraîchir
+|multiplayerConnecting = Connection ...
+|multiplayerSyncing = Synchronisation
+|multiplayerError = Erreur
+|multiplayerPlayers = [0]/[1]
+|multiplayerPlayersUnkown = ?/?
+
+//Discord
+|discordStarting_title = Démarrage du jeu
+|discordHome_title = Dans le menu d'accueil
+|discordEditor_title = Dans l'éditeur
+|discordEditor_subtitle = Edition de [0]
+|discordServer_title = Joue dans un serveur
+|discordServer_caption = Serveur : [0]:[1]
+|discordPlaying_title = Joue dans un niveau
+|discordPlaying_caption = Niveau : [0]

@@ -186,7 +186,7 @@
 |editorMenuEditRangeX = X
 |editorMenuEditRangeY = Y
 |editorMenuEditRangeSpeed = Vitesse
-|editorMenuEditType = Type de mouvement
+|editorMenuEditTypeTitle = Type de mouvement
 |editorMenuEditBehaviorWhenCollision = Paramètre de Collision
 |editorMenuEditBehaviorWhenCollisionStop = Stoppe
 |editorMenuEditBehaviorWhenCollisionKill = Tue

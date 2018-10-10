@@ -179,6 +179,10 @@
 |editorMenuEditLayer = Layer
 |editorMenuEditRotate = Rotate
 |editorMenuEditBehavior = Behavior
+|editorMenuEditPlayer = Player
+|editorMenuEditPlayerAll = All Players
+|editorMenuEditPlayerFrom = From
+|editorMenuEditPlayerTo = To
 |editorMenuEditBlocks = Blocks
 |editorMenuEditTranslation = Translation
 |editorMenuEditSettings = Settings

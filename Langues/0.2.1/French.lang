@@ -179,6 +179,11 @@
 |editorMenuEditLayer = Couche
 |editorMenuEditRotate = Rotation
 |editorMenuEditBehavior = Comportement
+|editorMenuEditPlayer = Joueur
+|editorMenuEditPlayerAll = Tous les Joueurs
+|editorMenuEditPlayerFrom = De
+|editorMenuEditPlayerTo = À
+|editorMenuEditPlayerInfinity = ∞
 |editorMenuEditBlocks = Blocs
 |editorMenuEditTranslation = Translation
 |editorMenuEditSettings = Paramètres

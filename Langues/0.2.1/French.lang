@@ -149,6 +149,12 @@
 |editorExploreNewUploadWarningYes = Oui
 |editorExploreNewUploadWarningNo = Non
 |editorExploreNewUploadChangesMade = Des changements ont été effectués depuis la dernière publication de ce niveau
+|editorExploreLoadingVersionCheck = Vérification de la version du niveau
+|editorExploreLoadingBlocks = Placement des blocs
+|editorExploreLoadingBlocksStatus = Placement des blocs : [0]/[1]
+|editorExploreLoadingBackgrounds = Mise en cache des fonds
+|editorExploreLoadingMusics = Actualisation de la liste des musiques
+|editorExploreLoadingOpen = Ouverture du niveau
 
 //Editeur - Selection - Online
 |editorOnlineNoUser = Quelqu'un

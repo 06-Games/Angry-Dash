@@ -149,6 +149,12 @@
 |editorExploreNewUploadWarningYes = Yes
 |editorExploreNewUploadWarningNo = No
 |editorExploreNewUploadChangesMade = Changes have been made since the last publication of this level
+|editorExploreLoadingVersionCheck = Checking the level version
+|editorExploreLoadingBlocks = Placing Blocks
+|editorExploreLoadingBlocksStatus = Placing Blocks : [0]/[1]
+|editorExploreLoadingBackgrounds = Caching Backgrounds
+|editorExploreLoadingMusics = Refreshing the list of music
+|editorExploreLoadingOpen = Opening Level
 
 //Editor - Selector - Search
 |editorOnlineNoUser = Somebody

@@ -202,7 +202,7 @@
 |editorMenuEditTranslationY = Y
 |editorMenuEditTranslationZ = Z
 |editorMenuEditMoveReset = Reset
-|editorMenuEditMoveBlock = In Block
+|editorMenuEditMoveGlobalRotation = Global
 |editorMenuEditSettingsType = Move Type
 |editorMenuEditSettingsSpeed = Speed
 |editorMenuEditSettingsSeveralUses = Several uses

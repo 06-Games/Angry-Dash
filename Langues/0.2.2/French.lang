@@ -201,6 +201,8 @@
 |editorMenuEditTranslationX = X
 |editorMenuEditTranslationY = Y
 |editorMenuEditTranslationZ = Z
+|editorMenuEditMoveReset = Réinitialiser
+|editorMenuEditMoveGlobalRotation = Globale
 |editorMenuEditSettingsType = Type de mouvement
 |editorMenuEditSettingsSpeed = Vitesse
 |editorMenuEditSettingsSeveralUses = Plusieurs usages

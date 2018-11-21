@@ -25,31 +25,30 @@
 |playSoloLevelNumber = Niveau [0]
 
 //Accueil - Paramètres
-|languagesChooseMenu = Langues
-|languageChangRestartRequireMessage = Un rechargement du jeu est nécessaire\npour appliquer un changement de langue
-|languageChangCancel = Annuler
-|languageChangApply = Recharger
-|soundSettingsMenu = Audio
-|masterSoundSettings = Principal
-|musicSoundSettings = Musiques
-|FXSoundSettings = Effets
-|delLogFiles = Suppr. les logs
-|graphicalTitle = Options Graphiques
-|graphicalFpsCounter = Compteur de FPS
-|graphicalMaximumFpsV-Sync = V-Sync
-|graphicalMaximumFpsUnlimited = Illimité
-|graphicalMaximumFps = [0] FPS
-|graphicalAntiAliasingDisabled = Désactivé
-|graphicalAntiAliasing = MSAA [0]
-|graphicalFullscreen = Plein Écran
-
-//Accueil - Crédits
-|creditsConcept = Concept
-|creditsScripts = Scripts
-|creditsTextures = Textures
-|creditsLayout = Mise en Page
-|creditsMusics = Musiques
-|creditsTests = Tests
+|SettingsTitle = Paramètres
+|SettingsTitleLanguages = Langues
+|SettingsTitleVideo = Paramètres Vidéos
+|SettingsTitleSound = Paramètres Audios
+|SettingsTitleRessource = Packs de Ressources
+|SettingsTitleInformations = Informations
+|SettingsVideoFpsCounter = Compteur de FPS
+|SettingsVideoFpsLimitV-Sync = V-Sync
+|SettingsVideoFpsLimit = [0] FPS
+|SettingsVideoFpsLimitUnlimited = Illimité
+|SettingsVideoAntiAliasingDisabled = Désactivé
+|SettingsVideoAntiAliasing = MSAA [0]
+|SettingsVideoFullScreen = Plein Écran
+|SettingsSoundMaster = Principal
+|SettingsSoundMusics = Musiques
+|SettingsSoundFX = Effets
+|SettingsInformationsDeleteLogs = Suppr. les logs
+|SettingsInformationsWebsite = Website
+|SettingsInformationsCreditsConcept = Concept
+|SettingsInformationsCreditsScripts = Scripts
+|SettingsInformationsCreditsTextures = Textures
+|SettingsInformationsCreditsLayout = Mise en Page
+|SettingsInformationsCreditsMusics = Musiques
+|SettingsInformationsCreditsTests = Tests
 
 //Accueil - Magasin
 |shopBuyPlayer = Joueur

@@ -25,31 +25,30 @@
 |playSoloLevelNumber = Level [0]
 
 //Home - Settings
-|languagesChooseMenu = Languages
-|languageChangRestartRequireMessage = A reload of the game is necessary\nto apply a language change
-|languageChangCancel = Cancel
-|languageChangApply = Reload
-|soundSettingsMenu = Sound
-|masterSoundSettings = Master
-|musicSoundSettings = Musics
-|FXSoundSettings = FX
-|delLogFiles = Delete Log Files
-|graphicalTitle = Graphical Options
-|graphicalFpsCounter = FPS Counter
-|graphicalMaximumFpsV-Sync = V-Sync
-|graphicalMaximumFpsUnlimited = Unlimited
-|graphicalMaximumFps = [0] FPS
-|graphicalAntiAliasingDisabled = Disabled
-|graphicalAntiAliasing = MSAA [0]
-|graphicalFullscreen = Full Screen
-
-//Home - Credits
-|creditsConcept = Concept
-|creditsScripts = Scripts
-|creditsTextures = Textures
-|creditsLayout = Layout
-|creditsMusics = Musics
-|creditsTests = Tests
+|SettingsTitle = Settings
+|SettingsTitleLanguages = Languages
+|SettingsTitleVideo = Video Settings
+|SettingsTitleSound = Sound Settings
+|SettingsTitleRessource = Ressource Pack
+|SettingsTitleInformations = Informations
+|SettingsVideoFpsCounter = FPS Counter
+|SettingsVideoFpsLimitV-Sync = V-Sync
+|SettingsVideoFpsLimit = [0] FPS
+|SettingsVideoFpsLimitUnlimited = Unlimited
+|SettingsVideoAntiAliasingDisabled = Disabled
+|SettingsVideoAntiAliasing = MSAA [0]
+|SettingsVideoFullScreen = Full Screen
+|SettingsSoundMaster = Master
+|SettingsSoundMusics = Musics
+|SettingsSoundFX = FX
+|SettingsInformationsDeleteLogs = Delete Log Files
+|SettingsInformationsWebsite = Website
+|SettingsInformationsCreditsConcept = Concept
+|SettingsInformationsCreditsScripts = Scripts
+|SettingsInformationsCreditsTextures = Textures
+|SettingsInformationsCreditsLayout = Layout
+|SettingsInformationsCreditsMusics = Musics
+|SettingsInformationsCreditsTests = Tests
 
 //Home - Shop
 |shopBuyPlayer = Player

@@ -36,7 +36,7 @@
 |SettingsVideoFpsLimit = [0] FPS
 |SettingsVideoFpsLimitUnlimited = Illimité
 |SettingsVideoAntiAliasingDisabled = Désactivé
-|SettingsVideoAntiAliasing = MSAA [0]
+|SettingsVideoAntiAliasing = MSAA [0]x
 |SettingsVideoFullScreen = Plein Écran
 |SettingsSoundMaster = Principal
 |SettingsSoundMusics = Musiques

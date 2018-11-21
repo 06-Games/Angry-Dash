@@ -29,14 +29,14 @@
 |SettingsTitleLanguages = Languages
 |SettingsTitleVideo = Video Settings
 |SettingsTitleSound = Sound Settings
-|SettingsTitleRessource = Ressource Pack
+|SettingsTitleRessource = Ressources Packs
 |SettingsTitleInformations = Informations
 |SettingsVideoFpsCounter = FPS Counter
 |SettingsVideoFpsLimitV-Sync = V-Sync
 |SettingsVideoFpsLimit = [0] FPS
 |SettingsVideoFpsLimitUnlimited = Unlimited
 |SettingsVideoAntiAliasingDisabled = Disabled
-|SettingsVideoAntiAliasing = MSAA [0]
+|SettingsVideoAntiAliasing = MSAA [0]x
 |SettingsVideoFullScreen = Full Screen
 |SettingsSoundMaster = Master
 |SettingsSoundMusics = Musics

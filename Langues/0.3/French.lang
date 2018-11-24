@@ -20,9 +20,21 @@
 |googleServiceAuthenticationExitNo = Non
 
 //Accueil - Jouer
-|playSoloLevel = Niveaux Officiels
-|playMultiLevel = Multijoueur
-|playSoloLevelNumber = Niveau [0]
+|PlayTitle = Play
+|PlayTitleOfficialLevels = Niveaux Officiels
+|PlayTitleOfficialServers = Serveurs Officiels
+|PlayTitleCommunityServers = Serveurs Communautaires
+|PlayOfficialLevels = Niveau [0]
+|PlayOfficialServersClosed = Not currently available,\ncome back later
+|PlayCommunityServersIP = Adresse IP :
+|PlayCommunityServersConnect = Connecter
+|PlayCommunityServersAdd = Ajouter
+|PlayCommunityServersRemove = Retirer
+|PlayCommunityServersRefresh = Rafraîchir
+|PlayCommunityServersSyncing = Synchronisation
+|PlayCommunityServersError = Erreur
+|PlayCommunityServersPlayers = [0]/[1]
+|PlayCommunityServersPlayersUnkown = ?/?
 
 //Accueil - Paramètres
 |SettingsTitle = Paramètres
@@ -115,6 +127,13 @@
 |levelPaused = Pause
 |levelResume = Reprendre
 |levelQuit = Quitter
+
+//Serveur
+|ServerConnecting = Connection...
+|ServerErrorNotResponding_title = Le serveur ne répond pas
+|ServerErrorNotResponding_subtitle = Réessayez plus tard\nSi le problème persiste, contactez l'administrateur.
+|ServerErrorUnknown_title = Une erreur est survenue
+|ServerErrorUnknown_subtitle = Code d'erreur : [0]
 
 //Editeur - Selection - Accueil
 |editorSelectorTitle = Editeur
@@ -223,21 +242,6 @@
 |editorSoundBoardChosen = Choisi
 |editorSoundBoardPlay = Lire
 |editorSoundBoardPause = Pause
-
-//Multijoueur
-|multiplayerOfficialServers = Serveurs Officiels
-|multiplayerCommunityServers = Serveurs Communautaires
-|multiplayerFavoriteServers = Serveurs Favoris
-|multiplayerIPAdress = Adresse IP :
-|multiplayerConnect = Connecter
-|multiplayerAdd = Ajouter
-|multiplayerRemove = Retirer
-|multiplayerRefresh = Rafraîchir
-|multiplayerConnecting = Connection ...
-|multiplayerSyncing = Synchronisation
-|multiplayerError = Erreur
-|multiplayerPlayers = [0]/[1]
-|multiplayerPlayersUnkown = ?/?
 
 //Discord
 |discordStarting_title = Démarrage du jeu

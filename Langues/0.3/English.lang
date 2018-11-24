@@ -20,9 +20,21 @@
 |googleServiceAuthenticationExitNo = No
 
 //Home - Play
-|playSoloLevel = Official Levels
-|playMultiLevel = Multiplayer
-|playSoloLevelNumber = Level [0]
+|PlayTitle = Play
+|PlayTitleOfficialLevels = Official Levels
+|PlayTitleOfficialServers = Official Servers
+|PlayTitleCommunityServers = Community Servers
+|PlayOfficialLevels = Level [0]
+|PlayOfficialServersClosed = Not currently available,\ncome back later
+|PlayCommunityServersIP = IP Adress :
+|PlayCommunityServersConnect = Connect
+|PlayCommunityServersAdd = Add
+|PlayCommunityServersRemove = Remove
+|PlayCommunityServersRefresh = Refresh
+|PlayCommunityServersSyncing = Syncing
+|PlayCommunityServersError = Error
+|PlayCommunityServersPlayers = [0]/[1]
+|PlayCommunityServersPlayersUnkown = ?/?
 
 //Home - Settings
 |SettingsTitle = Settings
@@ -115,6 +127,13 @@
 |levelPaused = Pause
 |levelResume = Resume
 |levelQuit = Quit
+
+//Server
+|ServerConnecting = Connecting...
+|ServerErrorNotResponding_title = The server is not responding
+|ServerErrorNotResponding_subtitle = Try again later\nIf the problem persists, please contact the administrator
+|ServerErrorUnknown_title = An error has occurred
+|ServerErrorUnknown_subtitle = Error code : [0]
 
 //Editor - Selector - Home
 |editorSelectorTitle = Editor
@@ -223,21 +242,6 @@
 |editorSoundBoardChosen = Chosen
 |editorSoundBoardPlay = Play
 |editorSoundBoardPause = Pause
-
-//Multiplayer
-|multiplayerOfficialServers = Official Servers
-|multiplayerCommunityServers = Community Servers
-|multiplayerFavoriteServers = Favorite Servers
-|multiplayerIPAdress = IP Adress :
-|multiplayerConnect = Connect
-|multiplayerAdd = Add
-|multiplayerRemove = Remove
-|multiplayerRefresh = Refresh
-|multiplayerConnecting = Connecting ...
-|multiplayerSyncing = Syncing
-|multiplayerError = Error
-|multiplayerPlayers = [0]/[1]
-|multiplayerPlayersUnkown = ?/?
 
 //Discord
 |discordStarting_title = Starting the game

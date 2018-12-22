@@ -133,11 +133,11 @@
 |downloadSpeedMB = [0] MB/s
 |downloadSpeedGB = [0] GB/s
 |downloadSpeedTB = [0] TB/s
-|downloadStateB = [0] B sur [1] B
-|downloadStateKB = [0] KB sur [1] KB
-|downloadStateMB = [0] MB sur [1] MB
-|downloadStateGB = [0] GB sur [1] GB
-|downloadStateTB = [0] TB sur [1] TB
+|downloadStateB = [0] B out of [1] B
+|downloadStateKB = [0] KB out of [1] KB
+|downloadStateMB = [0] MB out of [1] MB
+|downloadStateGB = [0] GB out of [1] GB
+|downloadStateTB = [0] TB out of [1] TB
 |downloadStatePercentage = [0]%
 |downloadRequireInternetTitle = An internet connection is required at first start
 |downloadRequireInternetSubtitle = Please check your internet connection and restart the game

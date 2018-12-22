@@ -1,0 +1,245 @@
+//Home
+|gameTitle = Angry Dash
+|gameVersion = v[0]
+|playButton = Play
+|editorButton = Editor
+|settingsButton = Settings
+
+//Google Play Service
+|googleServiceReconnect = Reconnect
+|googleServiceAuthenticating = Authenticating...
+|googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
+|googleServiceAuthenticationExitWarning = Ignoring this step will prevent you from unlocking successes and other Google Play Game events during this instance of the game,\nare you sure to continue ?
+|googleServiceAuthenticationExitYes = Yes
+|googleServiceAuthenticationExitNo = No
+
+//Home - Play
+|PlayTitle = Play
+|PlayTitleOfficialLevels = Official Levels
+|PlayTitleOfficialServers = Official Servers
+|PlayTitleCommunityServers = Community Servers
+|PlayTitleHistory = History
+|PlayOfficialLevels = Level [0]
+|PlayOfficialServersClosed = Not currently available,\ncome back later
+|PlayCommunityServersIP = IP Adress :
+|PlayCommunityServersConnect = Connect
+|PlayCommunityServersAdd = Add
+|PlayCommunityServersRemove = Remove
+|PlayCommunityServersRefresh = Refresh
+|PlayCommunityServersSyncing = Syncing
+|PlayCommunityServersError = Error
+|PlayCommunityServersPlayers = [0]/[1]
+|PlayCommunityServersPlayersUnkown = ?/?
+
+//Home - Editor
+|EditorTitle = Editor
+|EditorTitleEdit = Edit
+|EditorTitleCommunityLevels = Community Levels
+|EditorEditFilter = Enter keywords...
+|EditorEditSortDecreasingDates = Decreasing dates
+|EditorEditSortIncreasingDates = Increasing dates
+|EditorEditSortAToZ = A - Z
+|EditorEditSortZToA = Z - A
+|EditorEditInfosDescription = <b>Description :</b>
+|EditorEditInfosDescriptionError = <color=red>Can not read the description</color>
+|EditorEditInfosPlay = Play
+|EditorEditInfosEdit = Edit
+|EditorEditInfosCopy = Copy
+|EditorEditInfosDelete = Delete
+|EditorEditInfosPublish = Publish
+|EditorEditInfosShare = Share
+|EditorEditCreate = +
+|EditorEditCreateLevelName = Level Name
+|EditorEditCreateLevelDescription = Description
+|EditorEditCreateButton = Create
+|EditorEditDeleteWarning = Are you sure you want to delete this level ?\n\nThis action is irreversible
+|EditorEditDeleteWarningYes = Yes
+|EditorEditDeleteWarningNo = No
+|EditorEditPublishing = The level is uploading to our servers,\n\nplease wait...
+|EditorEditPublishError = <color=red>Error</color> : [0]
+|EditorEditPublishErrorCancel = Cancel
+|EditorEditPublished = The level has been correctly published
+|EditorEditPublishedExit = Baack to the menu
+|EditorCommunityLevelsSortAToZ = A - Z
+|EditorCommunityLevelsSortZToA = Z - A
+|EditorCommunityLevelsFilter = Enter keywords...
+|EditorCommunityLevelsAuthor = <color=grey>by [0]</color>
+|EditorCommunityLevelsInfosDescription = <b>Description :</b>
+|EditorCommunityLevelsInfosStarsCommunity = Community
+|EditorCommunityLevelsInfosStarsYou = You
+|EditorCommunityLevelsInfosMusic = <b>Music :</b>
+|EditorCommunityLevelsInfosMusicDownload = Download
+|EditorCommunityLevelsInfosMusicDownloading = Downloading
+
+//Home - Settings
+|SettingsTitle = Settings
+|SettingsTitleLanguages = Languages
+|SettingsTitleVideo = Video Settings
+|SettingsTitleSound = Sound Settings
+|SettingsTitleRessource = Ressources Packs
+|SettingsTitleInformations = Informations
+|SettingsVideoFpsCounter = FPS Counter
+|SettingsVideoFpsLimitV-Sync = V-Sync
+|SettingsVideoFpsLimit = [0] FPS
+|SettingsVideoFpsLimitUnlimited = Unlimited
+|SettingsVideoAntiAliasingDisabled = Disabled
+|SettingsVideoAntiAliasing = MSAA [0]x
+|SettingsVideoFullScreen = Full Screen
+|SettingsSoundMaster = Master
+|SettingsSoundMusics = Musics
+|SettingsSoundFX = FX
+|SettingsInformationsDeleteLogs = Delete Log Files
+|SettingsInformationsWebsite = Website
+|SettingsInformationsCreditsConcept = Concept
+|SettingsInformationsCreditsScripts = Scripts
+|SettingsInformationsCreditsTextures = Textures
+|SettingsInformationsCreditsLayout = Layout
+|SettingsInformationsCreditsMusics = Musics
+|SettingsInformationsCreditsTests = Tests
+
+//Home - Shop
+|shopBuyPlayer = Player
+|shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
+|shopWatchAd = Watch
+|shopInternetRequire = An internet connection is required\nto load the shop
+|shopServerError = A connection with our server\ncouldn't be established,\nexcuse us of the inconvenience
+
+//Home - Inventory
+|inventoryLocked = To Unlock
+|inventoryActual = Actual
+
+//Home - Profile
+|profileMyLevels = My Levels
+|profileMyFriends = My Friends
+|profileMyAccount = My Account
+|profileMyLevelsDeleteWarningTitle = Warning
+|profileMyLevelsDeleteWarningText = This action is final and can't be canceled\n\nAre you sure you want to delete the level [0] ?
+|profileMyLevelsDeleteWarningContinue = Yes
+|profileMyLevelsDeleteWarningCancel = Cancel
+|profileMyAccountSave = Save
+|profileMyAccountAdvanced = Advanced account settings
+|profileMyAccountDisconnect = Disconnect
+
+//SplashScreen
+|loadingScene = Loading
+
+//Download Dependencies
+|downloadingSoloLevels = Downloading levels
+|downloadRPTitle = Downloading ressources required by the game
+|downloadRPSubtitle = This may take several minutes\nDon't exit the game during this operation
+|downloadRPNumber = File : [0] / [1]
+|downloadSpeedB = [0] B/s
+|downloadSpeedKB = [0] KB/s
+|downloadSpeedMB = [0] MB/s
+|downloadSpeedGB = [0] GB/s
+|downloadSpeedTB = [0] TB/s
+|downloadStateB = [0] B sur [1] B
+|downloadStateKB = [0] KB sur [1] KB
+|downloadStateMB = [0] MB sur [1] MB
+|downloadStateGB = [0] GB sur [1] GB
+|downloadStateTB = [0] TB sur [1] TB
+|downloadStatePercentage = [0]%
+|downloadRequireInternetTitle = An internet connection is required at first start
+|downloadRequireInternetSubtitle = Please check your internet connection and restart the game
+|downloadRequireInternetExit = Tap to exit
+
+//06Games Account Connection
+|06GamesAccountConnectionTitle = A 06Games Account is required to start the game
+|06GamesAccountConnectionUsername = E-Mail / Username
+|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
+|06GamesAccountConnectionPassword = Password
+|06GamesAccountConnectionPasswordExemple = A_Very_Good_Password
+|06GamesAccountConnectionLogin = Log in
+|06GamesAccountConnectionError = Connexion error,\ncheck your username (or e-mail) and your password then re-check
+|06GamesAccountConnecting = Connecting ...\n\n<b>Please Wait</b>
+
+//LevelPlayer
+|playerTurn = Turn : [0]
+|levelFinished = is finished
+|levelReward = Reward
+|levelRewardCoins = Coins
+|levelPaused = Pause
+|levelResume = Resume
+|levelQuit = Quit
+
+//Server
+|ServerConnecting = Connecting...
+|ServerErrorNotResponding_title = The server is not responding
+|ServerErrorNotResponding_subtitle = Try again later\nIf the problem persists, please contact the administrator
+|ServerErrorUnknown_title = An error has occurred
+|ServerErrorUnknown_subtitle = Error code : [0]
+
+//Editor
+|editorExploreLoadingVersionCheck = Checking the level version
+|editorExploreLoadingBlocks = Placing Blocks
+|editorExploreLoadingBlocksStatus = Placing Blocks : [0]/[1]
+|editorExploreLoadingBackgrounds = Caching Backgrounds
+|editorExploreLoadingMusics = Refreshing the list of music
+|editorExploreLoadingOpen = Opening Level
+|editorMenuDelete = Delete
+|editorMenuEdit = Edit
+|editorMenuBuild = Build
+|editorMenuEvents = Events
+|editorMenuOptions = Options
+|editorMenuOptionBackground = Background
+|editorMenuOptionMusic = Music
+|editorMenuOptionRespawnMode = Respawn Mode
+|editorMenuEventsStartingPoint = Starting Point
+|editorMenuEventsArrivalPoint = Arrival Point
+|editorMenuEventsCheckpoint = Checkpoint
+|editorMenuEventsMove = Move
+|editorMenuDeleteMsg = Click on the blocks you want to delete
+|editorMenuEditNoBlockSelected = No block is selected
+|editorMenuEditColor = Color
+|editorMenuEditLayer = Layer
+|editorMenuEditRotate = Rotate
+|editorMenuEditBehavior = Behavior
+|editorMenuEditPlayer = Player
+|editorMenuEditPlayerAll = All Players
+|editorMenuEditPlayerFrom = From
+|editorMenuEditPlayerTo = To
+|editorMenuEditPlayerInfinity = ∞
+|editorMenuEditTargets = Targets
+|editorMenuEditTranslation = Translation
+|editorMenuEditSettings = Settings
+|editorMenuEditRotation = Rotation
+|editorMenuEditTargetsTypeBlock = Block
+|editorMenuEditTargetsTypeCamera = Camera
+|editorMenuEditTargetsBlocksAssign = Click on the blocks to assign
+|editorMenuEditTargetsCameraAssign = The camera is selected
+|editorMenuEditTranslationX = X
+|editorMenuEditTranslationY = Y
+|editorMenuEditTranslationZ = Z
+|editorMenuEditMoveReset = Reset
+|editorMenuEditMoveGlobalRotation = Global
+|editorMenuEditSettingsType = Move Type
+|editorMenuEditSettingsSpeed = Speed
+|editorMenuEditSettingsSeveralUses = Several uses
+|editorMenuEditBehaviorWhenCollision = When Collision
+|editorMenuEditBehaviorWhenCollisionStop = Stop
+|editorMenuEditBehaviorWhenCollisionKill = Kill
+|editorMenuEditBehaviorWhenCollisionNoCol = No\ncollision
+|editorMenuEditBehaviorWhenCollisionBounce = Bounce
+|editorMenuEditBehaviorWhenCollisionBoost = Boost
+|editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost\nMultiplier
+
+//Editor - Soundboard
+|editorSoundBoardDownload = Download
+|editorSoundBoardDownloadingKB = [0] KB/s
+|editorSoundBoardDownloadingMB = [0] MB/s
+|editorSoundBoardDownloadingStatus = [0] MB on [1] MB
+|editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
+|editorSoundBoardChoose = Choose
+|editorSoundBoardChosen = Chosen
+|editorSoundBoardPlay = Play
+|editorSoundBoardPause = Pause
+
+//Discord
+|discordStarting_title = Starting the game
+|discordHome_title = In the home menu
+|discordEditor_title = In the editor
+|discordEditor_subtitle = Editing [0]
+|discordServer_title = Play in a server
+|discordServer_caption = Server : [0]:[1]
+|discordPlaying_title = Play a level
+|discordPlaying_caption = Level : [0]

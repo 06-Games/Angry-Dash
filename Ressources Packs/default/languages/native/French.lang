@@ -9,7 +9,7 @@
 |googleServiceReconnect = Se Reconnecter
 |googleServiceAuthenticating = Authentification...
 |googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.
-|googleServiceAuthenticationExitWarning = Ignorer cette étape vous empechera de débloquer des succès et autres évènements du Google Play Jeu durant cette instance du jeu,\nêtes vous sur de continuer ?
+|googleServiceAuthenticationExitWarning = Ignorer cette étape vous empechera de débloquer des succès et autres évènements du Google Play Jeu durant cette instance du jeu,\nêtes-vous sur de continuer ?
 |googleServiceAuthenticationExitYes = Oui
 |googleServiceAuthenticationExitNo = Non
 
@@ -97,16 +97,13 @@
 |SettingsInformationsCreditsMusics = Musiques
 |SettingsInformationsCreditsTests = Tests
 
-//Accueil - Magasin
-|shopBuyPlayer = Joueur
-|shopStartAd = Voulez-vous regarder une annonce publicitaire,\npour obtenir 20 crédits supplémentaires ?
-|shopWatchAd = Regarder
-|shopInternetRequire = Une connexion Internet est nécessaire\npour charger le magasin
-|shopServerError = Une connection avec notre serveur\nn'a pu etre établie,\nexcusez-nous de la gêne occasionnée
-
-//Accueil - Inventaire
-|inventoryLocked = A Débloquer
-|inventoryActual = Actuel
+//Home - Inventaire
+|InventoryTitle = Inventaire
+|InventoryTitlePlayers = Joueurs
+|InventoryTitleTraces = Traces
+|InventoryError = Une connexion Internet est nécessaire\npour charger l'inventaire
+|InventoryItemSelected = Sélectionné
+|InventoryItemFree = Gratuit
 
 //Accueil - Profil
 |profileMyLevels = Mes Niveaux
@@ -158,8 +155,10 @@
 |levelFinished = est terminé
 |levelReward = Récompense
 |levelRewardCoins = Pièces
+|levelRewardQuantity = x[0]
 |levelPaused = Pause
 |levelResume = Reprendre
+|levelRestart = Recommencer
 |levelQuit = Quitter
 
 //Serveur

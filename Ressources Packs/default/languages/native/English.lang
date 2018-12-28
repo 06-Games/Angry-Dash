@@ -97,16 +97,13 @@
 |SettingsInformationsCreditsMusics = Musics
 |SettingsInformationsCreditsTests = Tests
 
-//Home - Shop
-|shopBuyPlayer = Player
-|shopStartAd = Do you want to watch an advertisement,\nto get 20 more credits?
-|shopWatchAd = Watch
-|shopInternetRequire = An internet connection is required\nto load the shop
-|shopServerError = A connection with our server\ncouldn't be established,\nexcuse us of the inconvenience
-
 //Home - Inventory
-|inventoryLocked = To Unlock
-|inventoryActual = Actual
+|InventoryTitle = Inventory
+|InventoryTitlePlayers = Players
+|InventoryTitleTraces = Traces
+|InventoryError = An internet connection is required\nto load the inventory
+|InventoryItemSelected = Selected
+|InventoryItemFree = Free
 
 //Home - Profile
 |profileMyLevels = My Levels
@@ -158,8 +155,11 @@
 |levelFinished = is finished
 |levelReward = Reward
 |levelRewardCoins = Coins
+|levelRewardQuantity = x[0]
 |levelPaused = Pause
 |levelResume = Resume
+|levelResume = Resume
+|levelRestart = Restart
 |levelQuit = Quit
 
 //Server

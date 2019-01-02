@@ -59,7 +59,7 @@
 |EditorEditPublishError = <color=red>Error</color> : [0]
 |EditorEditPublishErrorCancel = Cancel
 |EditorEditPublished = The level has been correctly published
-|EditorEditPublishedExit = Baack to the menu
+|EditorEditPublishedExit = Back to the menu
 |EditorCommunityLevelsSortAToZ = A - Z
 |EditorCommunityLevelsSortZToA = Z - A
 |EditorCommunityLevelsFilter = Enter keywords...

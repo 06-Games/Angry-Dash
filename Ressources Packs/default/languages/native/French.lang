@@ -102,7 +102,7 @@
 |InventoryTitlePlayers = Joueurs
 |InventoryTitleTraces = Traces
 |InventoryError = Une connexion Internet est nécessaire\npour charger l'inventaire
-|InventoryItemSelected = Sélectionné
+|InventoryItemSelected = Choisi
 |InventoryItemFree = Gratuit
 
 //Accueil - Profil

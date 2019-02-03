@@ -87,6 +87,7 @@
 |SettingsSoundMaster = Master
 |SettingsSoundMusics = Musics
 |SettingsSoundFX = FX
+|SettingsSoundFullyLoaded = Wait until the sounds are fully loaded before playing them\n<color=grey>(This option is only useful on poorly performing devices)</color>
 |SettingsInformationsDeleteLogs = Delete Log Files
 |SettingsInformationsWebsite = Website
 |SettingsInformationsCreditsConcept = Concept

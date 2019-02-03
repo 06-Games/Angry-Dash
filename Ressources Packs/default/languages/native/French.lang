@@ -87,6 +87,7 @@
 |SettingsSoundMaster = Principal
 |SettingsSoundMusics = Musiques
 |SettingsSoundFX = Effets
+|SettingsSoundFullyLoaded = Attendre que les sons soit complètement chargés avant de les jouer\n<color=grey>(Cette option n'est utile que sur des périphériques peu performants)</color>
 |SettingsInformationsDeleteLogs = Suppr. les logs
 |SettingsInformationsWebsite = Site Web
 |SettingsInformationsCreditsConcept = Concept

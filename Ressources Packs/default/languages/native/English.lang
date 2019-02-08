@@ -75,6 +75,7 @@
 |SettingsTitleLanguages = Languages
 |SettingsTitleVideo = Video Settings
 |SettingsTitleSound = Sound Settings
+|SettingsTitleEditor = Editor Settings
 |SettingsTitleRessource = Ressources Packs
 |SettingsTitleInformations = Informations
 |SettingsVideoFpsCounter = FPS Counter
@@ -88,6 +89,12 @@
 |SettingsSoundMusics = Musics
 |SettingsSoundFX = FX
 |SettingsSoundFullyLoaded = Wait until the sounds are fully loaded before playing them\n<color=grey>(This option is only useful on poorly performing devices)</color>
+|SettingsEditorCoordinates = Show Coordinates
+|SettingsEditorSaveAuto = Save
+|SettingsEditorSaveAutoEverytime = everytime
+|SettingsEditorSaveAutoEveryChange = every change
+|SettingsEditorSaveAutoEveryMinute = every minute
+|SettingsEditorSaveAutoEveryFiveMinutes = every 5 minutes
 |SettingsInformationsDeleteLogs = Delete Log Files
 |SettingsInformationsWebsite = Website
 |SettingsInformationsCreditsConcept = Concept

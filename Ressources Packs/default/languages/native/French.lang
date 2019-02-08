@@ -75,6 +75,7 @@
 |SettingsTitleLanguages = Langues
 |SettingsTitleVideo = Paramètres Vidéos
 |SettingsTitleSound = Paramètres Audios
+|SettingsTitleEditor = Paramètres de l'Éditeur
 |SettingsTitleRessource = Packs de Ressources
 |SettingsTitleInformations = Informations
 |SettingsVideoFpsCounter = Compteur de FPS
@@ -88,6 +89,12 @@
 |SettingsSoundMusics = Musiques
 |SettingsSoundFX = Effets
 |SettingsSoundFullyLoaded = Attendre que les sons soit complètement chargés avant de les jouer\n<color=grey>(Cette option n'est utile que sur des périphériques peu performants)</color>
+|SettingsEditorCoordinates = Afficher les coordonées
+|SettingsEditorSaveAuto = Sauvegarder
+|SettingsEditorSaveAutoEverytime = tout le temps
+|SettingsEditorSaveAutoEveryChange = à chaque changement
+|SettingsEditorSaveAutoEveryMinute = toutes les minutes
+|SettingsEditorSaveAutoEveryFiveMinutes = toutes les 5 minutes
 |SettingsInformationsDeleteLogs = Suppr. les logs
 |SettingsInformationsWebsite = Site Web
 |SettingsInformationsCreditsConcept = Concept

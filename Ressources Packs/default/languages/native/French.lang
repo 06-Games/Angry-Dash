@@ -148,14 +148,19 @@
 |downloadRequireInternetExit = Appuyer pour quitter
 
 //Connection 06Games Account
-|06GamesAccountConnectionTitle = Un compte 06Games est requis pour lancer le jeu
-|06GamesAccountConnectionUsername = E-Mail / Nom d'utilisateur
-|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
-|06GamesAccountConnectionPassword = Mot de passe
-|06GamesAccountConnectionPasswordExemple = Un_Super_Mot_De_Passe
-|06GamesAccountConnectionLogin = Se Connecter
-|06GamesAccountConnectionError = Erreur de connexion,\nVérifiez votre nom d'utilisateur (ou e-mail) et votre mot de passe puis re-vérifiez
-|06GamesAccountConnecting = Connexion...\n\n<b>Veuillez patienter</b>
+|AccountTitle = Un compte 06Games est requis pour lancer le jeu
+|AccountUsername = E-Mail / Nom d'utilisateur
+|AccountUsernameExemple = john.smith@exemple.org
+|AccountPassword = Mot de passe
+|AccountPasswordExemple = Un_Super_Mot_De_Passe
+|AccountLogin = Se Connecter
+|AccountRegister = S'inscrire
+|AccountErrorUsername = Le nom d'utilisateur (ou l'adresse e-mail) que vous avez entré n'est pas dans nos bases de données !
+|AccountErrorNoUsername = Vous devez entrer un nom d'utilisateur (ou une adresse e-mail) !
+|AccountErrorPassword = Le mot de passe que vous avez entré ne correspond pas à celui de nos bases de données !
+|AccountErrorNoPassword = Vous devez entrer un mot de passe !
+|AccountErrorInternal = Une erreur interne s’est produite, vérifiez que le jeu est à jour.\nSi le problème persiste, contactez un responsable et attendez un instant, l’erreur devrait être résolue en quelques minutes.
+|AccountErrorUnkown = Une erreur inconnue s’est produite. Veuillez contacter un responsable et signaler l’erreur suivante: \n<i><color=#B40404>[0]</color></i>
 
 //Joueur de niveaux
 |playerTurn = Tour : [0]

@@ -148,14 +148,19 @@
 |downloadRequireInternetExit = Tap to exit
 
 //06Games Account Connection
-|06GamesAccountConnectionTitle = A 06Games Account is required to start the game
-|06GamesAccountConnectionUsername = E-Mail / Username
-|06GamesAccountConnectionUsernameExemple = john.smith@exemple.org
-|06GamesAccountConnectionPassword = Password
-|06GamesAccountConnectionPasswordExemple = A_Very_Good_Password
-|06GamesAccountConnectionLogin = Log in
-|06GamesAccountConnectionError = Connexion error,\ncheck your username (or e-mail) and your password then re-check
-|06GamesAccountConnecting = Connecting ...\n\n<b>Please Wait</b>
+|AccountTitle = A 06Games Account is required to start the game
+|AccountUsername = E-Mail / Username
+|AccountUsernameExemple = john.smith@exemple.org
+|AccountPassword = Password
+|AccountPasswordExemple = A_Very_Good_Password
+|AccountLogin = Sign in
+|AccountRegister = Sign up
+|AccountErrorUsername = The username (or the e-mail address) you entered isn't on our databases !
+|AccountErrorNoUsername = You must enter a username (or an e-mail address) !
+|AccountErrorPassword = The password you entered doesn't match the one on our databases !
+|AccountErrorNoPassword = You must enter a password !
+|AccountErrorInternal = An internal error has occurred, check that the game is up to date.\nIf the problem continues, please contact a manager and wait a moment, the error should be resolved within minutes
+|AccountErrorUnkown = An unknown error has occurred, please contact a manager and report the following error:\n<i><color=#B40404>[0]</color></i>
 
 //LevelPlayer
 |playerTurn = Turn : [0]
@@ -164,7 +169,6 @@
 |levelRewardCoins = Coins
 |levelRewardQuantity = x[0]
 |levelPaused = Pause
-|levelResume = Resume
 |levelResume = Resume
 |levelRestart = Restart
 |levelQuit = Quit

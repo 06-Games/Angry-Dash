@@ -85,6 +85,7 @@
 |SettingsVideoAntiAliasingDisabled = Désactivé
 |SettingsVideoAntiAliasing = MSAA [0]x
 |SettingsVideoFullScreen = Plein Écran
+|SettingsVideoAPNG = Activer les APNG
 |SettingsSoundMaster = Principal
 |SettingsSoundMusics = Musiques
 |SettingsSoundFX = Effets

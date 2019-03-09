@@ -114,16 +114,17 @@
 |InventoryItemFree = Free
 
 //Home - Profile
-|profileMyLevels = My Levels
-|profileMyFriends = My Friends
-|profileMyAccount = My Account
-|profileMyLevelsDeleteWarningTitle = Warning
-|profileMyLevelsDeleteWarningText = This action is final and can't be canceled\n\nAre you sure you want to delete the level [0] ?
-|profileMyLevelsDeleteWarningContinue = Yes
-|profileMyLevelsDeleteWarningCancel = Cancel
-|profileMyAccountSave = Save
-|profileMyAccountAdvanced = Advanced account settings
-|profileMyAccountDisconnect = Disconnect
+|ProfileTitle = Profile
+|ProfileTitleMyLevels = My Levels
+|ProfileTitleMyFriends = My Friends
+|ProfileTitleMyAccount = My Account
+|ProfileMyLevelsSortAToZ = A - Z
+|ProfileMyLevelsSortZToA = Z - A
+|ProfileMyLevelsDeleteWarning = This action is final and can't be canceled\n\nAre you sure you want to delete the level [0] ?
+|ProfileMyLevelsDeleteWarningContinue = Yes
+|ProfileMyLevelsDeleteWarningCancel = Cancel
+|ProfileMyAccountAdvanced = Advanced account settings
+|ProfileMyAccountDisconnect = Disconnect
 
 //SplashScreen
 |loadingScene = Loading

@@ -206,7 +206,6 @@
 |editorMenuEditNoBlockSelected = Aucun bloc n'est sélectionné
 |editorMenuEditColor = Couleur
 |editorMenuEditLayer = Couche
-|editorMenuEditRotate = Rotation
 |editorMenuEditBehavior = Comportement
 |editorMenuEditPlayer = Joueur
 |editorMenuEditPlayerAll = Tous les Joueurs
@@ -216,7 +215,6 @@
 |editorMenuEditTargets = Cibles
 |editorMenuEditTranslation = Translation
 |editorMenuEditSettings = Paramètres
-|editorMenuEditRotation = Rotation
 |editorMenuEditTargetsTypeBlock = Bloc
 |editorMenuEditTargetsTypeCamera = Camera
 |editorMenuEditTargetsBlocksAssign = Cliquez sur les blocs à affecter

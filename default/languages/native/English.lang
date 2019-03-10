@@ -206,7 +206,6 @@
 |editorMenuEditNoBlockSelected = No block is selected
 |editorMenuEditColor = Color
 |editorMenuEditLayer = Layer
-|editorMenuEditRotate = Rotate
 |editorMenuEditBehavior = Behavior
 |editorMenuEditPlayer = Player
 |editorMenuEditPlayerAll = All Players
@@ -216,7 +215,6 @@
 |editorMenuEditTargets = Targets
 |editorMenuEditTranslation = Translation
 |editorMenuEditSettings = Settings
-|editorMenuEditRotation = Rotation
 |editorMenuEditTargetsTypeBlock = Block
 |editorMenuEditTargetsTypeCamera = Camera
 |editorMenuEditTargetsBlocksAssign = Click on the blocks to assign

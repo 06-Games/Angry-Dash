@@ -193,6 +193,7 @@
 |editorMenuEdit = Edit
 |editorMenuBuild = Build
 |editorMenuEvents = Events
+|editorMenuMovements = Movements
 |editorMenuOptions = Options
 |editorMenuOptionBackground = Background
 |editorMenuOptionMusic = Music

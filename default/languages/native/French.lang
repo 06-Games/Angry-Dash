@@ -65,8 +65,15 @@
 |EditorCommunityLevelsFilter = Entrez des mots-clés...
 |EditorCommunityLevelsAuthor = <color=grey>par [0]</color>
 |EditorCommunityLevelsInfosDescription = <b>Description :</b>
-|EditorCommunityLevelsInfosStarsCommunity = Communauté
 |EditorCommunityLevelsInfosStarsYou = Vous
+|EditorCommunityLevelsInfosStarsCommunity = Communauté
+|EditorCommunityLevelsInfosStarsCount = [0]/5
+|EditorCommunityLevelsInfosCommentHeader = [0] <i><color=grey>[1]</color></i>
+|EditorCommunityLevelsInfosCommentWrite = Écrire un commentaire\n<size=50><color=grey>à propos de [0]</color></size>
+|EditorCommunityLevelsInfosCommentWritingZone = Zone d'écriture
+|EditorCommunityLevelsInfosCommentWritingZonePlaceholder = Écrivez votre commentaire ici ...
+|EditorCommunityLevelsInfosCommentWritingPreview = Aperçu
+|EditorCommunityLevelsInfosCommentWritingSubmit = Soumettre
 |EditorCommunityLevelsInfosMusic = <b>Musique :</b>
 |EditorCommunityLevelsInfosMusicDownload = Télécharger
 

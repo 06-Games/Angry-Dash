@@ -65,8 +65,15 @@
 |EditorCommunityLevelsFilter = Enter keywords...
 |EditorCommunityLevelsAuthor = <color=grey>by [0]</color>
 |EditorCommunityLevelsInfosDescription = <b>Description :</b>
-|EditorCommunityLevelsInfosStarsCommunity = Community
 |EditorCommunityLevelsInfosStarsYou = You
+|EditorCommunityLevelsInfosStarsCommunity = Community
+|EditorCommunityLevelsInfosStarsCount = [0]/5
+|EditorCommunityLevelsInfosCommentHeader = [0] <i><color=grey>[1]</color></i>
+|EditorCommunityLevelsInfosCommentWrite = Write a Comment\n<size=50><color=grey>about [0]</color></size>
+|EditorCommunityLevelsInfosCommentWritingZone = Writing Zone
+|EditorCommunityLevelsInfosCommentWritingZonePlaceholder = Write your comment here...
+|EditorCommunityLevelsInfosCommentWritingPreview = Preview
+|EditorCommunityLevelsInfosCommentWritingSubmit = Submit
 |EditorCommunityLevelsInfosMusic = <b>Music :</b>
 |EditorCommunityLevelsInfosMusicDownload = Download
 

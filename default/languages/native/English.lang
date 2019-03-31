@@ -69,7 +69,7 @@
 |EditorCommunityLevelsInfosStarsCommunity = Community
 |EditorCommunityLevelsInfosStarsCount = [0]/5
 |EditorCommunityLevelsInfosCommentHeader = [0] <i><color=grey>[1]</color></i>
-|EditorCommunityLevelsInfosCommentWrite = Write a Comment\n<size=50><color=grey>about [0]</color></size>
+|EditorCommunityLevelsInfosCommentWrite = Write a Comment\n<size=50><color=grey>about <i>[0]</i></color></size>
 |EditorCommunityLevelsInfosCommentWritingZone = Writing Zone
 |EditorCommunityLevelsInfosCommentWritingZonePlaceholder = Write your comment here...
 |EditorCommunityLevelsInfosCommentWritingPreview = Preview

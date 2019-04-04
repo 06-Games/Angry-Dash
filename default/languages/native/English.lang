@@ -196,6 +196,7 @@
 |editorExploreLoadingBackgrounds = Caching Backgrounds
 |editorExploreLoadingMusics = Refreshing the list of music
 |editorExploreLoadingOpen = Opening Level
+|editorLayerAll = All
 |editorMenuDelete = Delete
 |editorMenuEdit = Edit
 |editorMenuBuild = Build
@@ -212,7 +213,6 @@
 |editorMenuDeleteMsg = Click on the blocks you want to delete
 |editorMenuEditNoBlockSelected = No block is selected
 |editorMenuEditColor = Color
-|editorMenuEditLayer = Layer
 |editorMenuEditBehavior = Behavior
 |editorMenuEditPlayer = Player
 |editorMenuEditPlayerAll = All Players

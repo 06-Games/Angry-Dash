@@ -196,6 +196,7 @@
 |editorExploreLoadingBackgrounds = Mise en cache des fonds
 |editorExploreLoadingMusics = Actualisation de la liste des musiques
 |editorExploreLoadingOpen = Ouverture du niveau
+|editorLayerAll = All
 |editorMenuDelete = Supprimer
 |editorMenuEdit = Editer
 |editorMenuBuild = Construire
@@ -212,7 +213,6 @@
 |editorMenuDeleteMsg = Cliquez sur les blocs que vous voulez supprimer
 |editorMenuEditNoBlockSelected = Aucun bloc n'est sélectionné
 |editorMenuEditColor = Couleur
-|editorMenuEditLayer = Couche
 |editorMenuEditBehavior = Comportement
 |editorMenuEditPlayer = Joueur
 |editorMenuEditPlayerAll = Tous les Joueurs

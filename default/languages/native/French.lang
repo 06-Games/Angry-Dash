@@ -97,6 +97,8 @@
 |SettingsSoundMusics = Musiques
 |SettingsSoundFX = Effets
 |SettingsSoundFullyLoaded = Attendre que les sons soit complètement chargés avant de les jouer\n<color=grey>(Cette option n'est utile que sur des périphériques peu performants)</color>
+|SettingsSoundDownloadedTitle = Musiques téléchargées :
+|SettingsSoundDownloadedItem = [0]\n<color=grey>par [1]</color>
 |SettingsEditorCoordinates = Afficher les coordonées
 |SettingsEditorSaveAuto = Sauvegarder
 |SettingsEditorSaveAutoEverytime = tout le temps
@@ -202,10 +204,22 @@
 |editorMenuBuild = Construire
 |editorMenuEvents = Evènements
 |editorMenuMovements = Déplacements
-|editorMenuOptions = Options
-|editorMenuOptionBackground = Fond
-|editorMenuOptionMusic = Musique
-|editorMenuOptionRespawnMode = Mode de Réapparition
+|editor.options.title = Options
+|editor.options.background.title = Fond
+|editor.options.background.hexCode = Code Hexadécimal
+|editor.options.background.R = R
+|editor.options.background.G = V
+|editor.options.background.B = B
+|editor.options.playingRules.title = Règles de jeu
+|editor.options.playingRules.respawnMode = Mode de Réapparition
+|editor.options.music.title = Musique
+|editor.options.music.sort.AtoZ = A - Z
+|editor.options.music.sort.ZtoA = Z - A
+|editor.options.music.search = Entrez des mots-clés...
+|editor.options.music.artist = <color=grey>par [0]</color>
+|editor.options.music.details.infos = [0]\n<color=grey><size=50>par [1]</size></color>
+|editor.options.music.details.download = Télécharger
+|editor.options.music.details.choose = Choisir
 |editorMenuEventsStartingPoint = Point de départ
 |editorMenuEventsArrivalPoint = Point d'arrivée
 |editorMenuEventsCheckpoint = Point de contrôle
@@ -241,17 +255,6 @@
 |editorMenuEditBehaviorWhenCollisionBounce = Rebond
 |editorMenuEditBehaviorWhenCollisionBoost = Accélération
 |editorMenuEditBehaviorWhenCollisionBoostMultiplier = Multiplicateur
-
-//Editeur - Soundboard
-|editorSoundBoardDownload = Télécharger
-|editorSoundBoardDownloadingKB = [0] Ko/s
-|editorSoundBoardDownloadingMB = [0] Mo/s
-|editorSoundBoardDownloadingStatus = [0] Mo sur [1] Mo
-|editorSoundBoardActualMusic = <b> Musique :</b> <i> [0] </i>
-|editorSoundBoardChoose = Choisir
-|editorSoundBoardChosen = Choisi
-|editorSoundBoardPlay = Lire
-|editorSoundBoardPause = Pause
 
 //Discord
 |discordStarting_title = Démarrage du jeu

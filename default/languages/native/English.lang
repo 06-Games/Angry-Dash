@@ -97,6 +97,8 @@
 |SettingsSoundMusics = Musics
 |SettingsSoundFX = FX
 |SettingsSoundFullyLoaded = Wait until the sounds are fully loaded before playing them\n<color=grey>(This option is only useful on poorly performing devices)</color>
+|SettingsSoundDownloadedTitle = Downloaded Musics :
+|SettingsSoundDownloadedItem = [0]\n<color=grey>by [1]</color>
 |SettingsEditorCoordinates = Show Coordinates
 |SettingsEditorSaveAuto = Save
 |SettingsEditorSaveAutoEverytime = everytime
@@ -202,10 +204,22 @@
 |editorMenuBuild = Build
 |editorMenuEvents = Events
 |editorMenuMovements = Movements
-|editorMenuOptions = Options
-|editorMenuOptionBackground = Background
-|editorMenuOptionMusic = Music
-|editorMenuOptionRespawnMode = Respawn Mode
+|editor.option.title = Options
+|editor.options.background.title = Background
+|editor.options.background.hexCode = Hexadecimal Code
+|editor.options.background.R = R
+|editor.options.background.G = G
+|editor.options.background.B = B
+|editor.options.playingRules.title = Playing Rules
+|editor.options.playingRules.respawnMode = Respawn Mode
+|editor.options.music.title = Music
+|editor.options.music.sort.AtoZ = A - Z
+|editor.options.music.sort.ZtoA = Z - A
+|editor.options.music.search = Enter keywords...
+|editor.options.music.artist = <color=grey>by [0]</color>
+|editor.options.music.details.infos = [0]\n<color=grey><size=50>by [1]</size></color>
+|editor.options.music.details.download = Download
+|editor.options.music.details.choose = Choose
 |editorMenuEventsStartingPoint = Starting Point
 |editorMenuEventsArrivalPoint = Arrival Point
 |editorMenuEventsCheckpoint = Checkpoint
@@ -241,17 +255,6 @@
 |editorMenuEditBehaviorWhenCollisionBounce = Bounce
 |editorMenuEditBehaviorWhenCollisionBoost = Boost
 |editorMenuEditBehaviorWhenCollisionBoostMultiplier = Boost\nMultiplier
-
-//Editor - Soundboard
-|editorSoundBoardDownload = Download
-|editorSoundBoardDownloadingKB = [0] KB/s
-|editorSoundBoardDownloadingMB = [0] MB/s
-|editorSoundBoardDownloadingStatus = [0] MB on [1] MB
-|editorSoundBoardActualMusic = <b> Music :</b> <i> [0] </i>
-|editorSoundBoardChoose = Choose
-|editorSoundBoardChosen = Chosen
-|editorSoundBoardPlay = Play
-|editorSoundBoardPause = Pause
 
 //Discord
 |discordStarting_title = Starting the game

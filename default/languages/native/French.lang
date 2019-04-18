@@ -142,6 +142,7 @@
 |downloadLevels = Téléchargement des niveaux
 |downloadRPTitle = Téléchargement des ressources requises par le jeu
 |downloadRPSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
+|download.ressourcesPack.connection = Connexion au serveur
 |downloadRPNumber = Fichier : [0] / [1]
 |downloadSpeedB = [0] o/s
 |downloadSpeedKB = [0] Ko/s

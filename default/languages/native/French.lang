@@ -85,6 +85,7 @@
 |SettingsTitleEditor = Paramètres de l'Éditeur
 |SettingsTitleRessource = Packs de Ressources
 |SettingsTitleInformations = Informations
+|settings.languages.apply = Appliquer
 |SettingsVideoFpsCounter = Compteur de FPS
 |SettingsVideoFpsLimitV-Sync = V-Sync
 |SettingsVideoFpsLimit = [0] FPS
@@ -105,6 +106,11 @@
 |SettingsEditorSaveAutoEveryChange = à chaque changement
 |SettingsEditorSaveAutoEveryMinute = toutes les minutes
 |SettingsEditorSaveAutoEveryFiveMinutes = toutes les 5 minutes
+|settings.ressourcesPack.local = Local
+|settings.ressourcesPack.official = Officiels
+|settings.ressourcesPack.refresh = Actualiser
+|settings.ressourcesPack.apply = Appliquer
+|settings.ressourcesPack.openFolder = Ouvrir Dossier
 |SettingsInformationsDeleteLogs = Suppr. les logs
 |SettingsInformationsWebsite = Site Web
 |SettingsInformationsCreditsConcept = Concept

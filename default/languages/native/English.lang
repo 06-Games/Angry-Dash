@@ -85,6 +85,7 @@
 |SettingsTitleEditor = Editor Settings
 |SettingsTitleRessource = Ressources Packs
 |SettingsTitleInformations = Informations
+|settings.languages.apply = Apply
 |SettingsVideoFpsCounter = FPS Counter
 |SettingsVideoFpsLimitV-Sync = V-Sync
 |SettingsVideoFpsLimit = [0] FPS
@@ -105,6 +106,11 @@
 |SettingsEditorSaveAutoEveryChange = every change
 |SettingsEditorSaveAutoEveryMinute = every minute
 |SettingsEditorSaveAutoEveryFiveMinutes = every 5 minutes
+|settings.ressourcesPack.local = Local
+|settings.ressourcesPack.official = Officials
+|settings.ressourcesPack.refresh = Refresh
+|settings.ressourcesPack.apply = Apply
+|settings.ressourcesPack.openFolder = Open Folder
 |SettingsInformationsDeleteLogs = Delete Log Files
 |SettingsInformationsWebsite = Website
 |SettingsInformationsCreditsConcept = Concept

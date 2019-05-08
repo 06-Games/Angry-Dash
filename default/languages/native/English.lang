@@ -111,14 +111,15 @@
 |settings.ressourcesPack.refresh = Refresh
 |settings.ressourcesPack.apply = Apply
 |settings.ressourcesPack.openFolder = Open Folder
-|SettingsInformationsDeleteLogs = Delete Log Files
-|SettingsInformationsWebsite = Website
-|SettingsInformationsCreditsConcept = Concept
-|SettingsInformationsCreditsScripts = Scripts
-|SettingsInformationsCreditsTextures = Textures
-|SettingsInformationsCreditsLayout = Layout
-|SettingsInformationsCreditsMusics = Musics
-|SettingsInformationsCreditsTests = Tests
+|settings.informations.website = Website
+|settings.informations.deleteLogs = Delete Log Files
+|settings.informations.privacyPolicy = Privacy Policy
+|settings.informations.credits.concept = Concept
+|settings.informations.credits.scripts = Scripts
+|settings.informations.credits.textures = Textures
+|settings.informations.credits.layout = Layout
+|settings.informations.credits.musics = Musics
+|settings.informations.credits.tests = Tests
 
 //Home - Inventory
 |InventoryTitle = Inventory

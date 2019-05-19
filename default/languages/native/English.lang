@@ -211,6 +211,8 @@
 |editor.delete.message = Click on the blocks you want to delete
 |editor.edit = Edit
 |editor.edit.noBlockSelected = No block is selected
+|editor.edit.mobileUtilities.multiSelect = Multi\nSelect
+|editor.edit.mobileUtilities.deselect = Deselect
 |editor.edit.block.color = Color
 |editor.edit.block.behavior = Behavior
 |editor.edit.block.behavior.collision = Collision parameter

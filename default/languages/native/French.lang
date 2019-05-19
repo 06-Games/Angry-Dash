@@ -211,6 +211,8 @@
 |editor.delete.message = Cliquez sur les blocs que vous voulez supprimer
 |editor.edit = Editer
 |editor.edit.noBlockSelected = Aucun bloc n'est sélectionné
+|editor.edit.mobileUtilities.multiSelect = Multi\nSélection
+|editor.edit.mobileUtilities.deselect = Désélect
 |editor.edit.block.color = Couleur
 |editor.edit.block.behavior = Comportement
 |editor.edit.block.behavior.collision = Paramètre de Collision

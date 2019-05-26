@@ -166,6 +166,10 @@
 |downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
 |downloadRequireInternetExit = Appuyer pour quitter
 
+//Chargement des ressources
+|loadingRessources.title = Chargement\ndes ressources
+|loadingRessources.state = [0]/[1]
+
 //Connection 06Games Account
 |AccountTitle = Un compte 06Games est requis pour lancer le jeu
 |AccountUsername = E-Mail / Nom d'utilisateur

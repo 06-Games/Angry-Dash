@@ -100,12 +100,13 @@
 |SettingsSoundFullyLoaded = Attendre que les sons soit complètement chargés avant de les jouer\n<color=grey>(Cette option n'est utile que sur des périphériques peu performants)</color>
 |SettingsSoundDownloadedTitle = Musiques téléchargées :
 |SettingsSoundDownloadedItem = [0]\n<color=grey>par [1]</color>
-|SettingsEditorCoordinates = Afficher les coordonées
-|SettingsEditorSaveAuto = Sauvegarder
-|SettingsEditorSaveAutoEverytime = tout le temps
-|SettingsEditorSaveAutoEveryChange = à chaque changement
-|SettingsEditorSaveAutoEveryMinute = toutes les minutes
-|SettingsEditorSaveAutoEveryFiveMinutes = toutes les 5 minutes
+|settings.editor.showCoordinates = Afficher les coordonées
+|settings.editor.saveAuto = Sauvegarder
+|settings.editor.saveAuto.everytime = tout le temps
+|settings.editor.saveAuto.everyChange = à chaque changement
+|settings.editor.saveAuto.everyMinute = toutes les minutes
+|settings.editor.saveAuto.everyFiveMinutes = toutes les 5 minutes
+|settings.editor.hideToolbox = Cacher la boite à outils
 |settings.ressourcesPack.local = Local
 |settings.ressourcesPack.official = Officiels
 |settings.ressourcesPack.refresh = Actualiser

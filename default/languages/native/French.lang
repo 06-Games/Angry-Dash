@@ -146,6 +146,10 @@
 //SplashScreen
 |loadingScene = Chargement
 
+//Internet Notification
+|internet.connected = Vous êtes dorénavant connecté à internet
+|internet.disconnected = Vous êtes maintenant hors connexion
+
 //Téléchargement des Dépendances
 |downloadLevels = Téléchargement des niveaux
 |downloadRPTitle = Téléchargement des ressources requises par le jeu

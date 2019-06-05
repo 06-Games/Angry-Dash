@@ -146,6 +146,10 @@
 //SplashScreen
 |loadingScene = Loading
 
+//Internet Notification
+|internet.connected = You are now connected to the internet
+|internet.disconnected = You are now offline
+
 //Download Dependencies
 |downloadingSoloLevels = Downloading levels
 |downloadRPTitle = Downloading ressources required by the game

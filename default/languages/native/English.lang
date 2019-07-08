@@ -216,7 +216,6 @@
 |editor.loading.backgrounds = Caching Backgrounds
 |editor.loading.opening = Opening Level
 |editor.layer.all = All
-|editor.delete = Delete
 |editor.delete.message = Click on the blocks you want to delete
 |editor.edit = Edit
 |editor.edit.noBlockSelected = No block is selected
@@ -230,6 +229,8 @@
 |editor.edit.block.behavior.collision.noCollision = No\ncollision
 |editor.edit.block.behavior.collision.bounce = Bounce
 |editor.edit.block.behavior.boost = Boost\n<size=25>(in number of blocks)</size>
+|editor.edit.block.groups = Groups
+|editor.edit.block.groups.add = Add
 |editor.edit.genericEvent.player = Player
 |editor.edit.genericEvent.player.all = All Players
 |editor.edit.genericEvent.player.from = From
@@ -256,11 +257,6 @@
 |editor.edit.move.rotation.reset = Reset
 |editor.edit.move.rotation.global = Global
 |editor.build = Build
-|editor.events = Events
-|editor.events.startingPoint = Starting Point
-|editor.events.arrivalPoint = Arrival Point
-|editor.events.checkpoint = Checkpoint
-|editor.events.move = Move
 |editor.movements = Movements
 |editor.option = Options
 |editor.options.background = Background

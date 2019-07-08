@@ -216,7 +216,6 @@
 |editor.loading.backgrounds = Mise en cache des fonds
 |editor.loading.opening = Ouverture du niveau
 |editor.layer.all = All
-|editor.delete = Supprimer
 |editor.delete.message = Cliquez sur les blocs que vous voulez supprimer
 |editor.edit = Editer
 |editor.edit.noBlockSelected = Aucun bloc n'est sélectionné
@@ -229,6 +228,8 @@
 |editor.edit.block.behavior.collision.kill = Tue
 |editor.edit.block.behavior.collision.noCollision = Pas de\ncollision
 |editor.edit.block.behavior.collision.bounce = Rebond
+|editor.edit.block.groups = Groupes
+|editor.edit.block.groups.add = Ajouter
 |editor.edit.block.behavior.boost = Boost\n<size=25>(en nombre de blocs)</size>
 |editor.edit.genericEvent.player = Joueur
 |editor.edit.genericEvent.player.all = Tous les Joueurs
@@ -256,11 +257,6 @@
 |editor.edit.move.rotation.reset = Réinitialiser
 |editor.edit.move.rotation.global = Globale
 |editor.build = Construire
-|editor.events = Evènements
-|editor.events.startingPoint = Point de départ
-|editor.events.arrivalPoint = Point d'arrivée
-|editor.events.checkpoint = Point de contrôle
-|editor.events.move = Déplacer
 |editor.movements = Déplacements
 |editor.options = Options
 |editor.options.background = Fond

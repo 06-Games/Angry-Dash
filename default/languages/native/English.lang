@@ -259,6 +259,7 @@
 |editor.edit.event.visual.rotate.x = X
 |editor.edit.event.visual.rotate.y = Y
 |editor.edit.event.visual.rotate.z = Z
+|editor.edit.event.visual.respawn = On Respawn
 |editor.edit.event.visual.start = Game Start
 |editor.edit.event.visual.teleport = Teleport
 |editor.edit.event.visual.teleport.x = X

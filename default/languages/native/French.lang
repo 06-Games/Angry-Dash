@@ -33,7 +33,7 @@
 
 //Accueil - Editeur
 |EditorTitle = Editeur
-|EditorTitleEdit = Editer
+|EditorTitleEdit = Modifier
 |EditorTitleCommunityLevels = Niveaux de la communauté
 |EditorEditFilter = Entrez des mots-clés...
 |EditorEditSortDecreasingDates = Dates décroissantes
@@ -43,7 +43,7 @@
 |EditorEditInfosDescription = <b>Description :</b>
 |EditorEditInfosDescriptionError = <color=red>Impossible de lire la description</color>
 |EditorEditInfosPlay = Jouer
-|EditorEditInfosEdit = Editer
+|EditorEditInfosEdit = Modifier
 |EditorEditInfosCopy = Copier
 |EditorEditInfosDelete = Suppr.
 |EditorEditInfosPublish = Publier
@@ -223,7 +223,7 @@
 |editor.loading.opening = Ouverture du niveau
 |editor.layer.all = All
 |editor.delete.message = Cliquez sur les blocs que vous voulez supprimer
-|editor.edit = Editer
+|editor.edit = Modifier
 |editor.edit.noBlockSelected = Aucun bloc n'est sélectionné
 |editor.edit.mobileUtilities.multiSelect = Multi\nSélection
 |editor.edit.mobileUtilities.deselect = Désélect

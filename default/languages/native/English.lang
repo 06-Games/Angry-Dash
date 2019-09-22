@@ -83,7 +83,7 @@
 |SettingsTitleVideo = Video Settings
 |SettingsTitleSound = Sound Settings
 |SettingsTitleEditor = Editor Settings
-|SettingsTitleRessource = Ressources Packs
+|SettingsTitleRessource = Resource Packs
 |SettingsTitleInformations = Informations
 |settings.languages.apply = Apply
 |SettingsVideoFpsCounter = FPS Counter
@@ -152,7 +152,7 @@
 
 //Download Dependencies
 |downloadingSoloLevels = Downloading levels
-|downloadRPTitle = Downloading ressources required by the game
+|downloadRPTitle = Downloading resources required by the game
 |downloadRPSubtitle = This may take several minutes\nDon't exit the game during this operation
 |download.ressourcesPack.connection = Connection to the server
 |downloadRPNumber = File : [0] / [1]

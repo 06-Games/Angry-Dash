@@ -201,6 +201,12 @@
 |levelPlayer.restart = Restart
 |levelPlayer.quit = Quit
 |levelPlayer.lost = You lost !
+|levelPlayer.resourcePack.recommend = This level recommends a resource pack, do you want to install it?
+|levelPlayer.resourcePack.no = No Thanks
+|levelPlayer.resourcePack.required = This level require a resource pack, do you want to install it?
+|levelPlayer.resourcePack.quit = Quit
+|levelPlayer.resourcePack.warn = Warning, this resource pack will be downloaded from an external server (<i>[0]</i>), not belonging to 06Games.\nDownload it only if you had full confidence in the host.
+|levelPlayer.resourcePack.install = Install ([0] KB)
 
 //Server
 |ServerConnecting = Connecting...
@@ -309,6 +315,10 @@
 |editor.options.music.details.infos = [0]\n<color=grey><size=50>by [1]</size></color>
 |editor.options.music.details.download = Download
 |editor.options.music.details.choose = Choose
+|editor.options.other = Other
+|editor.options.other.resourcePack = Resource Pack
+|editor.options.other.resourcePack.url = URL
+|editor.options.other.resourcePack.required = Required
 
 //Discord
 |discordStarting_title = Starting the game

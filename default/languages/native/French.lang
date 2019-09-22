@@ -246,6 +246,9 @@
 |editor.edit.event.visual = Visuel
 |editor.edit.event.visual.changeTexture = Changer de Texture
 |editor.edit.event.visual.changeTexture.id = ID
+|editor.edit.event.visual.changeBackground = Changer le fond
+|editor.edit.event.visual.changeBackground.id = ID
+|editor.edit.event.visual.backgroundColor = Couleur du fond
 |editor.edit.event.visual.checkpoint = Point de contrôle
 |editor.edit.event.visual.checkpoint.x = X
 |editor.edit.event.visual.checkpoint.y = Y

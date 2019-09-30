@@ -244,6 +244,13 @@
 |editor.edit.genericEvent.player.infinity = ∞
 |editor.edit.event = Event
 |editor.edit.event.visual = Visual
+|editor.edit.event.visual.triggers = Triggers
+|editor.edit.event.visual.actions = Actions
+|editor.edit.event.visual.conditions = Conditions
+|editor.edit.event.visual.operators = Operators
+|editor.edit.event.visual.active = Active
+|editor.edit.event.visual.active.group = Group
+|editor.edit.event.visual.active.enable = Enable
 |editor.edit.event.visual.changeTexture = Change Texture
 |editor.edit.event.visual.changeTexture.id = ID
 |editor.edit.event.visual.changeBackground = Change Background

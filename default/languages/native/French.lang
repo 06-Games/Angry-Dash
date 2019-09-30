@@ -244,6 +244,13 @@
 |ditor.edit.genericEvent.player.infinity = ∞
 |editor.edit.event = Évènement
 |editor.edit.event.visual = Visuel
+|editor.edit.event.visual.triggers = Évènements
+|editor.edit.event.visual.actions = Actions
+|editor.edit.event.visual.conditions = Conditions
+|editor.edit.event.visual.operators = Opérateurs
+|editor.edit.event.visual.active = Activer
+|editor.edit.event.visual.active.group = Groupe
+|editor.edit.event.visual.active.enable = Activé
 |editor.edit.event.visual.changeTexture = Changer de Texture
 |editor.edit.event.visual.changeTexture.id = ID
 |editor.edit.event.visual.changeBackground = Changer le fond

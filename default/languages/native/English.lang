@@ -5,13 +5,14 @@
 |editorButton = Editor
 |settingsButton = Settings
 
-//Google Play Service
-|googleServiceReconnect = Reconnect
-|googleServiceAuthenticating = Authenticating...
-|googleServiceAuthenticationFailed = Authentication failed.\nGoogle Play service failed to start
-|googleServiceAuthenticationExitWarning = Ignoring this step will prevent you from unlocking successes and other Google Play Game events during this instance of the game,\nare you sure to continue ?
-|googleServiceAuthenticationExitYes = Yes
-|googleServiceAuthenticationExitNo = No
+//Game Services
+|gameServices.authentication = Authentication...
+|gameServices.authentication.success = Authenticated
+|gameServices.authentication.failed.google = Authentication failed.\nGoogle Play Games service failed to start.
+|gameServices.authentication.failed.tryAgain = Try again
+|gameServices.abandon.warn = Ignoring this step will prevent you from unlocking achievements and seeing your rankings in this instance of the game,\nare you sure to continue?
+|gameServices.abandon.yes = Yes
+|gameServices.abandon.no = No
 
 //Home - Play
 |PlayTitle = Play

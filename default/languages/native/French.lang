@@ -5,13 +5,14 @@
 |editorButton = Editeur
 |settingsButton = Paramètres
 
-//Service Google Play
-|googleServiceReconnect = Se Reconnecter
-|googleServiceAuthenticating = Authentification...
-|googleServiceAuthenticationFailed = L'authentification a échoué.\nLe service Google Play n'a pas pu démarrer.
-|googleServiceAuthenticationExitWarning = Ignorer cette étape vous empechera de débloquer des succès et autres évènements du Google Play Jeu durant cette instance du jeu,\nêtes-vous sur de continuer ?
-|googleServiceAuthenticationExitYes = Oui
-|googleServiceAuthenticationExitNo = Non
+//Services de Jeux
+|gameServices.authentication = Authentification...
+|gameServices.authentication.success = Authentifié
+|gameServices.authentication.failed.google = Échec de l'authentification.\nLe service Google Play Games n'a pu démarrer.
+|gameServices.authentication.failed.tryAgain = Réessayer
+|gameServices.abandon.warn = Ignorer cette étape vous empêchera de débloquer des succès et de vous classer lors de cette instance du jeu,\nêtes-vous sûr de continuer?
+|gameServices.abandon.yes = Oui
+|gameServices.abandon.no = Non
 
 //Accueil - Jouer
 |PlayTitle = Jouer

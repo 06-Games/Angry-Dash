@@ -1,3 +1,3 @@
 {
-    "parent": "native/GUI/common/background"
+  "parent": "native/GUI/common/menuBackground"
 }

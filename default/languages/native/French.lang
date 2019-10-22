@@ -5,6 +5,27 @@
 |editorButton = Editeur
 |settingsButton = Paramètres
 
+//Téléchargement des Dépendances
+|downloadLevels = Téléchargement des niveaux
+|downloadRPTitle = Téléchargement des ressources requises par le jeu
+|downloadRPSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
+|download.ressourcesPack.connection = Connexion au serveur
+|downloadRPNumber = Fichier : [0] / [1]
+|downloadSpeedB = [0] o/s
+|downloadSpeedKB = [0] Ko/s
+|downloadSpeedMB = [0] Mo/s
+|downloadSpeedGB = [0] Go/s
+|downloadSpeedTB = [0] To/s
+|downloadStateB = [0] o sur [1] o
+|downloadStateKB = [0] Ko sur [1] Ko
+|downloadStateMB = [0] Mo sur [1] Mo
+|downloadStateGB = [0] Go sur [1] Go
+|downloadStateTB = [0] To sur [1] To
+|downloadStatePercentage = [0]%
+|downloadRequireInternetTitle = Une connexion internet est requise au premier démarrage
+|downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
+|downloadRequireInternetExit = Appuyer pour quitter
+
 //Services de Jeux
 |gameServices.authentication = Authentification...
 |gameServices.authentication.success = Authentifié
@@ -13,6 +34,25 @@
 |gameServices.abandon.warn = Ignorer cette étape vous empêchera de débloquer des succès et de vous classer lors de cette instance du jeu,\nêtes-vous sûr de continuer?
 |gameServices.abandon.yes = Oui
 |gameServices.abandon.no = Non
+
+//Connection 06Games Account
+|account.title = Connexion
+|account.06games = Se connecter avec un compte 06Games
+|account.06games.username = E-Mail / Nom d'utilisateur
+|account.06games.username.exemple = john.smith@exemple.org
+|account.06games.password = Mot de passe
+|account.06games.password.exemple = Un_Super_Mot_De_Passe
+|account.06games.signUp = S'inscrire
+|account.06games.signIn = Se Connecter
+|account.others = Ou avec un compte
+|account.others.google = Google
+|account.others.apple = Apple ID
+|account.others.microsoft = Microsoft
+|account.unkownError = Une erreur inconnue s’est produite. Veuillez contacter un responsable et signaler l’erreur suivante: \n<i><color=#B40404>[0]</color></i>
+
+//Chargement des ressources
+|loadingRessources.title = Chargement\ndes ressources
+|loadingRessources.state = [0]/[1]
 
 //Accueil - Jouer
 |PlayTitle = Jouer
@@ -150,46 +190,6 @@
 //Internet Notification
 |internet.connected = Vous êtes dorénavant connecté à internet
 |internet.disconnected = Vous êtes maintenant hors connexion
-
-//Téléchargement des Dépendances
-|downloadLevels = Téléchargement des niveaux
-|downloadRPTitle = Téléchargement des ressources requises par le jeu
-|downloadRPSubtitle = Cela peut prendre quelques minutes\nNe quittez pas le jeu pendant cette opération
-|download.ressourcesPack.connection = Connexion au serveur
-|downloadRPNumber = Fichier : [0] / [1]
-|downloadSpeedB = [0] o/s
-|downloadSpeedKB = [0] Ko/s
-|downloadSpeedMB = [0] Mo/s
-|downloadSpeedGB = [0] Go/s
-|downloadSpeedTB = [0] To/s
-|downloadStateB = [0] o sur [1] o
-|downloadStateKB = [0] Ko sur [1] Ko
-|downloadStateMB = [0] Mo sur [1] Mo
-|downloadStateGB = [0] Go sur [1] Go
-|downloadStateTB = [0] To sur [1] To
-|downloadStatePercentage = [0]%
-|downloadRequireInternetTitle = Une connexion internet est requise au premier démarrage
-|downloadRequireInternetSubtitle = Veuillez vérifier votre connexion Internet et redémarrer le jeu
-|downloadRequireInternetExit = Appuyer pour quitter
-
-//Chargement des ressources
-|loadingRessources.title = Chargement\ndes ressources
-|loadingRessources.state = [0]/[1]
-
-//Connection 06Games Account
-|AccountTitle = Un compte 06Games est requis pour lancer le jeu
-|AccountUsername = E-Mail / Nom d'utilisateur
-|AccountUsernameExemple = john.smith@exemple.org
-|AccountPassword = Mot de passe
-|AccountPasswordExemple = Un_Super_Mot_De_Passe
-|AccountLogin = Se Connecter
-|AccountRegister = S'inscrire
-|AccountErrorUsername = Le nom d'utilisateur (ou l'adresse e-mail) que vous avez entré n'est pas dans nos bases de données !
-|AccountErrorNoUsername = Vous devez entrer un nom d'utilisateur (ou une adresse e-mail) !
-|AccountErrorPassword = Le mot de passe que vous avez entré ne correspond pas à celui de nos bases de données !
-|AccountErrorNoPassword = Vous devez entrer un mot de passe !
-|AccountErrorInternal = Une erreur interne s’est produite, vérifiez que le jeu est à jour.\nSi le problème persiste, contactez un responsable et attendez un instant, l’erreur devrait être résolue en quelques minutes.
-|AccountErrorUnkown = Une erreur inconnue s’est produite. Veuillez contacter un responsable et signaler l’erreur suivante: \n<i><color=#B40404>[0]</color></i>
 
 //Joueur de niveaux
 |levelPlayer.throw = [0] lancers

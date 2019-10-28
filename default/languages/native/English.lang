@@ -6,25 +6,26 @@
 |settingsButton = Settings
 
 //Download Dependencies
-|downloadingSoloLevels = Downloading levels
-|downloadRPTitle = Downloading resources required by the game
-|downloadRPSubtitle = This may take several minutes\nDon't exit the game during this operation
+|download.ressourcesPack = Downloading resources required by the game
+|download.ressourcesPack.subtitle = This may take several minutes\nDon't exit the game during this operation
 |download.ressourcesPack.connection = Connection to the server
-|downloadRPNumber = File : [0] / [1]
-|downloadSpeedB = [0] B/s
-|downloadSpeedKB = [0] KB/s
-|downloadSpeedMB = [0] MB/s
-|downloadSpeedGB = [0] GB/s
-|downloadSpeedTB = [0] TB/s
-|downloadStateB = [0] B out of [1] B
-|downloadStateKB = [0] KB out of [1] KB
-|downloadStateMB = [0] MB out of [1] MB
-|downloadStateGB = [0] GB out of [1] GB
-|downloadStateTB = [0] TB out of [1] TB
-|downloadStatePercentage = [0]%
-|downloadRequireInternetTitle = An internet connection is required at first start
-|downloadRequireInternetSubtitle = Please check your internet connection and restart the game
-|downloadRequireInternetExit = Tap to exit
+|download.ressourcesPack.state = File: [0] / [1]
+|download.ressourcesPack.noInternet = An internet connection is required at first start
+|download.ressourcesPack.noInternet.subtitle = Please check your internet connection and restart the game
+|download.ressourcesPack.noInternet.exit = Tap to exit
+|download.speed.B = [0] B/s
+|download.speed.KB = [0] KB/s
+|download.speed.MB = [0] MB/s
+|download.speed.GB = [0] GB/s
+|download.speed.TB = [0] TB/s
+|download.state.B = [0] B out of [1] B
+|download.state.KB = [0] KB out of [1] KB
+|download.state.MB = [0] MB out of [1] MB
+|download.state.GB = [0] GB out of [1] GB
+|download.state.TB = [0] TB out of [1] TB
+|download.state.percentage = [0]%
+|download.levels = Downloading levels
+|download.levels.state = Level: [0] / [1]
 
 //Game Services
 |gameServices.authentication = Authentication...
@@ -48,6 +49,7 @@
 |account.others.google = Google
 |account.others.apple = Apple ID
 |account.others.microsoft = Microsoft
+|account.connecting = Connecting...
 |account.unkownError = An unknown error has occurred, please contact a manager and report the following error:\n<i><color=#B40404>[0]</color></i>
 
 //Loading resources

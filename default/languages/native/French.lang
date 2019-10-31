@@ -50,6 +50,7 @@
 |account.others.apple = Apple ID
 |account.others.microsoft = Microsoft
 |account.connecting = Connexion en cours...
+|account.connecting.cancel = Annuler
 |account.unkownError = Une erreur inconnue s’est produite. Veuillez contacter un responsable et signaler l’erreur suivante: \n<i><color=#B40404>[0]</color></i>
 
 //Chargement des ressources

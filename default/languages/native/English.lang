@@ -50,6 +50,7 @@
 |account.others.apple = Apple ID
 |account.others.microsoft = Microsoft
 |account.connecting = Connecting...
+|account.connecting.cancel = Cancel
 |account.unkownError = An unknown error has occurred, please contact a manager and report the following error:\n<i><color=#B40404>[0]</color></i>
 
 //Loading resources

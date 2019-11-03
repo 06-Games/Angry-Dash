@@ -59,11 +59,12 @@
 
 //Home - Play
 |PlayTitle = Play
-|PlayTitleOfficialLevels = Official Levels
 |PlayTitleOfficialServers = Official Servers
 |PlayTitleCommunityServers = Community Servers
 |PlayTitleHistory = History
-|PlayOfficialLevels = Level [0]
+|play.officialLevels = Official Levels
+|play.officialLevels.level = Level [0]
+|play.officialLevels.play = Play
 |PlayOfficialServersClosed = Not currently available,\ncome back later
 |PlayCommunityServersIP = IP Adress :
 |PlayCommunityServersConnect = Connect
@@ -195,7 +196,8 @@
 |internet.disconnected = You are now offline
 
 //LevelPlayer
-|levelPlayer.throw = [0] throws
+|levelPlayer.throw = [0] throw
+|levelPlayer.throws = [0] throws
 |levelPlayer.finished = is finished
 |levelPlayer.finished.reward = Reward
 |levelPlayer.finished.reward.coins = Coins

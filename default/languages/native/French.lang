@@ -59,11 +59,12 @@
 
 //Accueil - Jouer
 |PlayTitle = Jouer
-|PlayTitleOfficialLevels = Niveaux Officiels
 |PlayTitleOfficialServers = Serveurs Officiels
 |PlayTitleCommunityServers = Serveurs Communautaires
 |PlayTitleHistory = Historique
-|PlayOfficialLevels = Niveau [0]
+|play.officialLevels = Niveaux Officiels
+|play.officialLevels.level = Niveau [0]
+|play.officialLevels.play = Jouer
 |PlayOfficialServersClosed = Indisponible actuellement,\nrevenez plus tard
 |PlayCommunityServersIP = Adresse IP :
 |PlayCommunityServersConnect = Connecter
@@ -195,7 +196,8 @@
 |internet.disconnected = Vous êtes maintenant hors connexion
 
 //Joueur de niveaux
-|levelPlayer.throw = [0] lancers
+|levelPlayer.throw = [0] lancer
+|levelPlayer.throws = [0] lancers
 |levelPlayer.finished = est terminé
 |levelPlayer.finished.reward = Récompense
 |levelPlayer.finished.reward.coins = Pièces

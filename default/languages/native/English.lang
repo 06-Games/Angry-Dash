@@ -286,6 +286,8 @@
 |editor.edit.event.visual.teleport = Teleport
 |editor.edit.event.visual.teleport.x = X
 |editor.edit.event.visual.teleport.y = Y
+|editor.edit.event.visual.wait = Wait
+|editor.edit.event.visual.wait.unit = Seconds
 |editor.edit.event.textual = Textual
 |editor.edit.event.textual.save = Save
 |editor.edit.move.targets = Targets

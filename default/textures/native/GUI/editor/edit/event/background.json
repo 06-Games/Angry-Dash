@@ -1,13 +1,3 @@
 {
-   "textures":{
-      "basic":{
-         "type":"Sliced",
-         "border":{
-            "left":503,
-            "right":0,
-            "top":152,
-            "bottom":0
-         }
-      }
-   }
+    "parent": "native/GUI/common/menuBackground"
 }

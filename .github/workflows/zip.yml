@@ -1,9 +1,7 @@
 name: Create Archives
-on: 
-  push:
-    paths:
-      - '!builds/**'
-      - '*/**'
+on:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,22 +10,22 @@ jobs:
         uses: actions/checkout@v1
       - name: Create folders
         run: |
-             mkdir -p build 
-             mkdir -p builds
+          mkdir -p build
+          mkdir -p builds
       - name: Zip files
         run: |
-             if [ ! -z "$(git diff --numstat HEAD~1 HEAD default/)" ] || [ ! -f "./build/default.zip" ]; then
-                zip -q -r ./build/default.zip ./default/*
-                mv -u ./build/default.zip ./builds/default.zip
-             fi
-             if [ ! -z "$(git diff --numstat HEAD~1 HEAD light/)" ] || [ ! -f "./build/light.zip" ]; then
-               zip -q -r ./build/light.zip ./light/*
-               mv -u ./build/light.zip ./builds/light.zip
-             fi
-             if [ ! -z "$(git diff --numstat HEAD~1 HEAD oled/)" ] || [ ! -f "./build/oled.zip" ]; then
-               zip -q -r ./build/oled.zip ./oled/*
-               mv -u ./build/oled.zip ./builds/oled.zip
-             fi
+          if [ ! -z "$(git diff --numstat HEAD@{yesterday} HEAD default/)" ] || [ ! -f "./build/default.zip" ]; then
+             zip -q -r ./build/default.zip ./default/*
+             mv -u ./build/default.zip ./builds/default.zip
+          fi
+          if [ ! -z "$(git diff --numstat HEAD@{yesterday} HEAD light/)" ] || [ ! -f "./build/light.zip" ]; then
+            zip -q -r ./build/light.zip ./light/*
+            mv -u ./build/light.zip ./builds/light.zip
+          fi
+          if [ ! -z "$(git diff --numstat HEAD@{yesterday} HEAD oled/)" ] || [ ! -f "./build/oled.zip" ]; then
+            zip -q -r ./build/oled.zip ./oled/*
+            mv -u ./build/oled.zip ./builds/oled.zip
+          fi
       - name: Delete temp folder
         run: rm -R build
       - name: Commit files

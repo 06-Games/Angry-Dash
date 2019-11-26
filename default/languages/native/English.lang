@@ -47,6 +47,7 @@
 |account.06games.signIn = Sign in
 |account.others = Or with
 |account.others.google = Google
+|account.others.google = Discord
 |account.others.apple = Apple ID
 |account.others.microsoft = Microsoft
 |account.connecting = Connecting...

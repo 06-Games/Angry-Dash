@@ -196,6 +196,9 @@
 |internet.connected = Vous êtes dorénavant connecté à internet
 |internet.disconnected = Vous êtes maintenant hors connexion
 
+//Exit Warning
+|exit.warning = Are you sure you want to quit the game?
+
 //Joueur de niveaux
 |levelPlayer.throw = [0] lancer
 |levelPlayer.throws = [0] lancers

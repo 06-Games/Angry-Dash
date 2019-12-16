@@ -196,6 +196,9 @@
 |internet.connected = You are now connected to the internet
 |internet.disconnected = You are now offline
 
+//Exit Warning
+|exit.warning = Are you sure you want to quit the game?
+
 //LevelPlayer
 |levelPlayer.throw = [0] throw
 |levelPlayer.throws = [0] throws
